@@ -1,0 +1,313 @@
+[
+  {
+    "activity_id": "a055bc01-b802-473c-be2d-a3fda1cc8518",
+    "unit": "2",
+    "lesson": "3",
+    "text_title": "Walk Two Moons",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What kind of relationship does Mrs. Winterbottom have with her daughters Prudence and Phoebe?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What does the word agenda mean as it is used in paragraph 22?",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What message does Phoebe find on the steps?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which of the following best explains the reactions of Phoebe and Prudence to the note that arrives at their door?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Re-read paragraphs 30-31. What do these paragraphs reveal about Mrs. Winterbottom's reaction to the message?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 0,
+        "step": 5,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How does the arrival of the note affect Sal's feelings?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which of the following best states a theme of the excerpt?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 8",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which sentence from the text most strongly supports your answer to the previous question?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 2,
+      "students_with_sessions": 1,
+      "students_without_sessions": 1,
+      "students_with_responses": 1,
+      "students_reached_target_task": 0,
+      "students_scored_on_target_task": 0
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "cite-evidence",
+        "count": 19,
+        "tier": 3
+      },
+      {
+        "blocker": "task",
+        "count": 16,
+        "tier": 1
+      },
+      {
+        "blocker": "comprehend-text",
+        "count": 13,
+        "tier": 2
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 13,
+        "tier": 3
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 5,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 5,
+      "MOJO.CITE-EVIDENCE": 1,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_1",
+        "concern_type": "low_completion",
+        "detail": "responded to fewer than 50% of questions"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": true
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 1
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_1"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": false,
+          "student_groups": []
+        },
+        "post_activity_summary": {
+          "used": false
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "6c6b5d16-a957-4d9d-b8ff-2448cf055404",
+    "unit": "2",
+    "lesson": "10",
+    "text_title": "Teenagers",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "**Voice** is the way an author uses word choice, tone, and speech patterns to show the personality of a speaker, narrator, or character. Voice gives the sense that a real person is talking to the reader or to other characters. \n\nWhose voice is telling us about the teenagers?",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "In lines 4 and 5, the speaker says that ”we become strangers in our own home.” Who are the strangers in this home?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Re-read lines 6-8. Which of the following inferences is best supported by these lines?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Look at lines 6-8 again. What does the word “code” mean in this context?",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Re-read lines 9-14. These lines primarily suggest that _____.",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "tdq-v-2",
+        "question": "Write two or three sentences that explain what happens to the “strangers” when “years later, the door opens”?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 2,
+      "students_with_sessions": 1,
+      "students_without_sessions": 1,
+      "students_with_responses": 1,
+      "students_reached_target_task": 0,
+      "students_scored_on_target_task": 0
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 28,
+        "tier": 2
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 18,
+        "tier": 3
+      },
+      {
+        "blocker": "task",
+        "count": 13,
+        "tier": 1
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 10,
+        "tier": 3
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 3,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CRAFT": 1,
+      "MOJO.ANALYZE-CHARACTER": 3,
+      "MOJO.CITE-EVIDENCE": 1,
+      "MOJO.SYNTHESIZE": 1
+    },
+    "students_of_concern": [],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 2
+        },
+        "viewed_transcripts": {
+          "used": false,
+          "student_ids": []
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": false,
+          "student_groups": []
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  }
+]

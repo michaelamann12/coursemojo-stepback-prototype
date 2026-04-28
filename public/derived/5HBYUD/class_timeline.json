@@ -1,0 +1,3389 @@
+[
+  {
+    "activity_id": "c7ad86bf-1218-4909-95b9-af0d2e5ea121",
+    "unit": "1",
+    "lesson": "1",
+    "text_title": "Eleven",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which of the following statements about the narrator is best supported by the following passage (paragraph 3)?\n\n“Because the way you grow old is kind of like an onion or like the rings inside a tree trunk or like my little wooden dolls that fit one inside the other, each year inside the next one. That's how being eleven years old is.”",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Part A: How does Rachel feel about the red sweater that is placed on her desk?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "Highlight a sentence or phrase from the text that supports your answer to Part A.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Re-read paragraphs 18-19. How does Rachel physically react when she finally puts on the sweater?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Part A: Which of the following abilities does the narrator mainly believe older people have that younger people don't?",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 0,
+        "step": 5,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "Part B: Highlight the evidence from the text that best supports your answer to Part A.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": " Part A: What is the main conflict Rachel faces in the story?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 8",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Part B: Which evidence from the text BEST shows how Rachel responds to this conflict?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 22,
+      "students_without_sessions": 16,
+      "students_with_responses": 18,
+      "students_reached_target_task": 3,
+      "students_scored_on_target_task": 1
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 44,
+        "tier": 2
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 28,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 23,
+        "tier": 3
+      },
+      {
+        "blocker": "task",
+        "count": 17,
+        "tier": 1
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 3,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CRAFT": 2,
+      "MOJO.ANALYZE-CHARACTER": 2,
+      "MOJO.CITE-EVIDENCE": 2,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_5",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_10",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_22",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_37",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_14",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": true,
+          "times_used": 3
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 1
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_5",
+            "USER_37"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": true,
+          "student_groups": [
+            {
+              "concern_type": "no_responses",
+              "student_ids": [
+                "USER_22",
+                "USER_37"
+              ]
+            },
+            {
+              "concern_type": "no_responses",
+              "student_ids": [
+                "USER_5",
+                "USER_10"
+              ]
+            }
+          ]
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "d63ef4a1-a52c-40b7-8dd6-a358bb6d8064",
+    "unit": "1",
+    "lesson": "4",
+    "text_title": "Eleven",
+    "activity_type": "closeread",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "In paragraph 13, Rachel describes the red sweater as “sitting there like a big red mountain.” What does this comparison tell us about how Rachel sees the sweater?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Read the following sentence from paragraph 8: \n\n“It's an ugly sweater with red plastic buttons and a collar and sleeves all stretched out like you could use it for a jump rope.”\n\nWhat type of figurative language is being used?",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What does the simile tell us about Rachel's feelings toward the sweater?",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "When Rachel is forced to put on the sweater in paragraph 18, what happens to “all the years inside” her?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What does this personification reveal about Rachel's emotional state at this moment? ",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 0,
+        "step": 5,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "In paragraphs 5 and 22, Rachel wishes she was a different age. Highlight a simile or metaphor that demonstrates this wish.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 0,
+        "step": 6,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Look back at paragraph 19. Which statement best explains how the author's use of figurative language helps readers understand Rachel's feelings?",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 8",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "quickwrite-v-6",
+        "question": "How does the author's use of figurative language help readers understand the explicit and implicit feelings that the narrator is expressing? \n\nRespond to this question in the form of a paragraph that includes a claim, evidence, and explanation.",
+        "mojo_standard": "MOJO.WRITE-ARGUMENT"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 18,
+      "students_without_sessions": 20,
+      "students_with_responses": 12,
+      "students_reached_target_task": 2,
+      "students_scored_on_target_task": 2
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 26,
+        "tier": 2
+      },
+      {
+        "blocker": "analyze-craft",
+        "count": 17,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-theme",
+        "count": 16,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 15,
+        "tier": 3
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 11,
+        "tier": 3
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 3,
+      "MOJO.ANALYZE-CRAFT": 3,
+      "MOJO.CITE-EVIDENCE": 1,
+      "MOJO.WRITE-ARGUMENT": 1
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_7",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_15",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_18",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_22",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_28",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": true,
+          "times_used": 2
+        },
+        "pause": {
+          "used": false,
+          "pause_count": 0
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_7",
+            "USER_18"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": true,
+          "student_groups": [
+            {
+              "concern_type": "no_responses",
+              "student_ids": [
+                "USER_15",
+                "USER_7"
+              ]
+            },
+            {
+              "concern_type": "no_responses",
+              "student_ids": [
+                "USER_18",
+                "USER_28"
+              ]
+            }
+          ]
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "ee4031e0-909f-40f7-bb1b-5d27eb0fd39b",
+    "unit": "1",
+    "lesson": "10",
+    "text_title": "Red Scarf Girl",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Based on paragraph 3, what is Ji-li most afraid of when she realizes the officials plan to interrogate her at school rather than at home?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "In paragraph 8, Teacher Zhang mentions that Ji-li “participates in educational reform”. What inference can be made about his motivation for bringing this up?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Read the following passage from paragraph 10:\n\n“I closed my eyes. I saw Dad standing on a stage, his head bowed, his name written in large black letters, and then crossed out in red ink, on a sign hanging from his neck. I saw myself standing in the middle of the stage, facing thousands of people, condemning Dad for his crimes, raising my fist to lead the chant, ‘Down with Jiang Xi-reng.’ I saw Dad looking at me hopelessly, tears on his face.”\n\nWhat does this suggest about Ji-li's relationship with her father?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "In paragraph 18, Ji-Li describes the area around her. What does this description reveal about her emotional state?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which of the following inferences about the interrogation is best supported by the text?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 0,
+        "step": 5,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "Highlight a detail from paragraphs 12-15 that most strongly supports your answer to the previous question.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which of the following best expresses a central idea of the excerpt?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 8",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which sentence from the text most strongly supports the answer to the previous question?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 24,
+      "students_without_sessions": 14,
+      "students_with_responses": 23,
+      "students_reached_target_task": 20,
+      "students_scored_on_target_task": 19
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 47,
+        "tier": 2
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 31,
+        "tier": 3
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 28,
+        "tier": 3
+      },
+      {
+        "blocker": "task",
+        "count": 19,
+        "tier": 1
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 13,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 5,
+      "MOJO.CITE-EVIDENCE": 1,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_30",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_5",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_7",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_10",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_11",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": false,
+          "pause_count": 0
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_30",
+            "USER_7"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": true
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": false,
+          "student_groups": []
+        },
+        "post_activity_summary": {
+          "used": false
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "4d4a718f-c829-475c-89df-a60b62774f1f",
+    "unit": "1",
+    "lesson": "11",
+    "text_title": "Hatchet",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Look at paragraphs 1-2. What has happened to Brian?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "The repetition of the phrase “they would” in paragraphs 1-3 mainly suggests that Brian____",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Re-read paragraph 5. Which of the following inferences about Brian is most strongly supported by this paragraph?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Based on Brian's memories, what kind of person was Mr. Perpich? ",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "Highlight a detail that shows Mr. Perpich was an optimistic man who believed in his students.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 0,
+        "step": 5,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which of the following conclusions about Brian's state of mind is best supported by the excerpt?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "tdq-v-2",
+        "question": "What is the main conflict Brian faces in this excerpt from Hatchet?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 8",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which detail from the text best supports your answer to the previous question?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 25,
+      "students_without_sessions": 13,
+      "students_with_responses": 23,
+      "students_reached_target_task": 9,
+      "students_scored_on_target_task": 9
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 49,
+        "tier": 2
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 40,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 26,
+        "tier": 3
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 16,
+        "tier": 1
+      },
+      {
+        "blocker": "task",
+        "count": 14,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 5,
+      "MOJO.CITE-EVIDENCE": 1,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_13",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_34",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_14",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_16",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_19",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 2
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_13",
+            "USER_19",
+            "USER_34",
+            "USER_16",
+            "USER_12",
+            "USER_18"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": true,
+          "student_groups": [
+            {
+              "concern_type": "no_responses",
+              "student_ids": [
+                "USER_34",
+                "USER_13"
+              ]
+            },
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_16",
+                "USER_14"
+              ]
+            }
+          ]
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "a055bc01-b802-473c-be2d-a3fda1cc8518",
+    "unit": "2",
+    "lesson": "3",
+    "text_title": "Walk Two Moons",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What kind of relationship does Mrs. Winterbottom have with her daughters Prudence and Phoebe?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What does the word agenda mean as it is used in paragraph 22?",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What message does Phoebe find on the steps?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which of the following best explains the reactions of Phoebe and Prudence to the note that arrives at their door?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Re-read paragraphs 30-31. What do these paragraphs reveal about Mrs. Winterbottom's reaction to the message?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 0,
+        "step": 5,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How does the arrival of the note affect Sal's feelings?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which of the following best states a theme of the excerpt?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 8",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which sentence from the text most strongly supports your answer to the previous question?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 25,
+      "students_without_sessions": 13,
+      "students_with_responses": 19,
+      "students_reached_target_task": 3,
+      "students_scored_on_target_task": 1
+    },
+    "avg_pct_correct_first": 23.8,
+    "avg_pct_correct_scaffolding": 2.4,
+    "avg_pct_never_correct": 73.8,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 31,
+        "tier": 2
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 31,
+        "tier": 3
+      },
+      {
+        "blocker": "task",
+        "count": 23,
+        "tier": 1
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 22,
+        "tier": 3
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 10,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 5,
+      "MOJO.CITE-EVIDENCE": 1,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_7",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_11",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_12",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_15",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_28",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": true
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 1
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_28",
+            "USER_12"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": false,
+          "student_groups": []
+        },
+        "post_activity_summary": {
+          "used": false
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "7ab843dc-714b-4134-ae00-c8e7cd85b561",
+    "unit": "2",
+    "lesson": "4",
+    "text_title": "Walk Two Moons",
+    "activity_type": "closeread",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "Look at paragraphs 10-19. Highlight a line that shows how Phoebe treats her mother.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How did Sal treat her mother differently than Phoebe treats her mother?",
+        "mojo_standard": "MOJO.COMPARE-CONTRAST"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What does Sal learn about herself while watching this family interaction?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which evidence from the text best shows Prudence's reaction to the mysterious note?",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "Highlight a detail that shows Sal takes the mysterious note's question seriously.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "quickwrite-v-6",
+        "question": "Throughout the excerpt, Sal watches the Winterbottom family interact and then reflects on what matters, ‘in the course of a lifetime.’\n\nAccording to the last paragraph, how does watching the Winterbottom family help Sal understand the difference between things that matter and things that don't matter in life? Use evidence from the text to support your response.",
+        "mojo_standard": "MOJO.WRITE-ARGUMENT"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 28,
+      "students_without_sessions": 10,
+      "students_with_responses": 25,
+      "students_reached_target_task": 20,
+      "students_scored_on_target_task": 19
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 44,
+        "tier": 2
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 31,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-craft",
+        "count": 30,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-theme",
+        "count": 28,
+        "tier": 3
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 22,
+        "tier": 3
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.CITE-EVIDENCE": 3,
+      "MOJO.COMPARE-CONTRAST": 1,
+      "MOJO.ANALYZE-CHARACTER": 1,
+      "MOJO.WRITE-ARGUMENT": 1
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_22",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_24",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_30",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_5",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_7",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 2
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_5",
+            "USER_30",
+            "USER_24"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": true
+        },
+        "conferences_tool": {
+          "used": false,
+          "student_groups": []
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "dffa517d-9657-449c-9d03-fc698217ff03",
+    "unit": "2",
+    "lesson": "6",
+    "text_title": "Roll of Thunder, Hear My Cry",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Why are Thurston Wallace and Mr. Granger angry with the black farmers?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Based on the context, what does the word “amenities” mean?",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Why does Papa tell Stacey he is “born blessed”?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Why is Papa in a better position than Mr. Avery and Mr. Lanier to stand up to Thurston Wallace?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How does Papa feel about Mr. Avery and Mr. Lanier's decision to stop shopping in Vicksburg?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 0,
+        "step": 5,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "Highlight a sentence from the text that shows Papa's feelings toward Mr. Avery and Mr. Lanier's decision to stop shopping in Vicksburg.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "What is the central conflict in this story?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 8",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which sentence from the text best supports the answer to the previous question?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 2,
+      "students_without_sessions": 36,
+      "students_with_responses": 2,
+      "students_reached_target_task": 1,
+      "students_scored_on_target_task": 1
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "cite-evidence",
+        "count": 22,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 17,
+        "tier": 3
+      },
+      {
+        "blocker": "comprehend-text",
+        "count": 16,
+        "tier": 2
+      },
+      {
+        "blocker": "task",
+        "count": 13,
+        "tier": 1
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 12,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 4,
+      "MOJO.CITE-EVIDENCE": 2,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_14",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_36",
+        "concern_type": "low_completion",
+        "detail": "responded to fewer than 50% of questions"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 2
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_14",
+            "USER_36"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": true
+        },
+        "celebrations_tool": {
+          "used": true
+        },
+        "conferences_tool": {
+          "used": false,
+          "student_groups": []
+        },
+        "post_activity_summary": {
+          "used": false
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "6c6b5d16-a957-4d9d-b8ff-2448cf055404",
+    "unit": "2",
+    "lesson": "10",
+    "text_title": "Teenagers",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "**Voice** is the way an author uses word choice, tone, and speech patterns to show the personality of a speaker, narrator, or character. Voice gives the sense that a real person is talking to the reader or to other characters. \n\nWhose voice is telling us about the teenagers?",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "In lines 4 and 5, the speaker says that ”we become strangers in our own home.” Who are the strangers in this home?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Re-read lines 6-8. Which of the following inferences is best supported by these lines?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Look at lines 6-8 again. What does the word “code” mean in this context?",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Re-read lines 9-14. These lines primarily suggest that _____.",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "tdq-v-2",
+        "question": "Write two or three sentences that explain what happens to the “strangers” when “years later, the door opens”?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 25,
+      "students_without_sessions": 13,
+      "students_with_responses": 25,
+      "students_reached_target_task": 25,
+      "students_scored_on_target_task": 21
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 58,
+        "tier": 2
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 34,
+        "tier": 3
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 31,
+        "tier": 3
+      },
+      {
+        "blocker": "task",
+        "count": 25,
+        "tier": 1
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 9,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CRAFT": 1,
+      "MOJO.ANALYZE-CHARACTER": 3,
+      "MOJO.CITE-EVIDENCE": 1,
+      "MOJO.SYNTHESIZE": 1
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_5",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_7",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_8",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_9",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_10",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 2
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_5",
+            "USER_10",
+            "USER_7",
+            "USER_8"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": true
+        },
+        "conferences_tool": {
+          "used": false,
+          "student_groups": []
+        },
+        "post_activity_summary": {
+          "used": false
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "7d7349ec-6ffa-456c-aab5-322cec06c25e",
+    "unit": "3",
+    "lesson": "3",
+    "text_title": "Heroes Every Child Should Know: Perseus",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How do Athene and Hermes help prepare Perseus for his journey?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "According to paragraph 4, what does Athene promise to Perseus when he returns with Medusa's head?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "How does Perseus express his concern about the journey?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How does Perseus feel about Medusa?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How does Perseus escape after killing Medusa?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "What is a theme of the excerpt?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which sentence from the excerpt most strongly supports the correct answer to the previous question?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 26,
+      "students_without_sessions": 12,
+      "students_with_responses": 26,
+      "students_reached_target_task": 24,
+      "students_scored_on_target_task": 14
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 48,
+        "tier": 2
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 35,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 26,
+        "tier": 3
+      },
+      {
+        "blocker": "task",
+        "count": 18,
+        "tier": 1
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 18,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 5,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_3",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_5",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_7",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_8",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_9",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": true
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": false,
+          "pause_count": 0
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_8",
+            "USER_3",
+            "USER_7"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": true,
+          "student_groups": [
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_8",
+                "USER_9"
+              ]
+            },
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_5",
+                "USER_7"
+              ]
+            }
+          ]
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "3ca3c48a-b1b8-485f-8350-a46afe59b8e1",
+    "unit": "3",
+    "lesson": "6",
+    "text_title": "The Lightning Thief",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How does Percy describe himself?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Reread paragraph 9. What do these lines reveal about Percy's mother?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Reread paragraphs 13-16. What does Percy discover about his father?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How does Percy react to this discovery?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What's unusual about Percy's school attendance?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which of the following best identifies a central conflict in the text?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which sentence from the text best supports the correct answer to Question 1?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 24,
+      "students_without_sessions": 14,
+      "students_with_responses": 24,
+      "students_reached_target_task": 21,
+      "students_scored_on_target_task": 20
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 45,
+        "tier": 2
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 28,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 25,
+        "tier": 3
+      },
+      {
+        "blocker": "task",
+        "count": 24,
+        "tier": 1
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 20,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 5,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_5",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_8",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_9",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_10",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_11",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": true
+        },
+        "add_time": {
+          "used": true,
+          "times_used": 1
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 1
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_5",
+            "USER_11",
+            "USER_8",
+            "USER_9"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": true,
+          "student_groups": [
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_9",
+                "USER_5"
+              ]
+            },
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_10",
+                "USER_8"
+              ]
+            }
+          ]
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "38408de2-a759-4c3b-b7d3-30157090b7a2",
+    "unit": "3",
+    "lesson": "7",
+    "text_title": "The Lightning Thief",
+    "activity_type": "language",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Reread paragraphs 24-28. What is Percy concerned about?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which phrase from paragraph 29 best signals the author's use of flashback?",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How did the author structure the flashback in paragraphs 29-32?",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How do paragraphs 30-31 support Percy's statement? ",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Why might the author choose to use the flashbacks in paragraphs 30 and 31?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which sentence or phrase from the passage gives the clearest understanding that the story will be about Percy's struggles?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 24,
+      "students_without_sessions": 14,
+      "students_with_responses": 21,
+      "students_reached_target_task": 18,
+      "students_scored_on_target_task": 12
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "vocabulary",
+        "count": 47,
+        "tier": 1
+      },
+      {
+        "blocker": "comprehend-text",
+        "count": 23,
+        "tier": 2
+      },
+      {
+        "blocker": "syntax",
+        "count": 22,
+        "tier": 1
+      },
+      {
+        "blocker": "task",
+        "count": 21,
+        "tier": 1
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 12,
+        "tier": 3
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 2,
+      "MOJO.ANALYZE-CRAFT": 2,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_15",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_19",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_29",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_5",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_7",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 1
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_7",
+            "USER_29",
+            "USER_15"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": true
+        },
+        "conferences_tool": {
+          "used": true,
+          "student_groups": [
+            {
+              "concern_type": "no_responses",
+              "student_ids": [
+                "USER_19",
+                "USER_15"
+              ]
+            },
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_5",
+                "USER_7"
+              ]
+            }
+          ]
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "f83502f0-efd6-47d3-a7b8-0a225b3a7b16",
+    "unit": "3",
+    "lesson": "8",
+    "text_title": "The Lightning Thief",
+    "activity_type": "closeread",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Reread paragraph 12. What do Percy's thoughts in this paragraph reveal about how he sees himself?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Reread the dialogue in paragraphs 14-16. How does learning this truth about his father affect Percy's feelings toward his father?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which moment in this excerpt represents the most significant turning point for Percy?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Reread paragraphs 20-26 where Percy and his mother discuss being sent away. How does the author create tension in this scene?",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "In paragraphs 34-38, Percy's mother mentions a summer camp but refuses to give Percy more information about it or why he must go there. What does this lack of information create for Percy?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "quickwrite-v-6",
+        "question": "Percy's conversation with his mother about his father serves as a turning point in the excerpt. How does this turning point propel the plot forward and hint at challenges Percy will face? \n\n\nRespond to this question in the form of a paragraph that includes a claim, evidence, and explanation.",
+        "mojo_standard": "MOJO.WRITE-ARGUMENT"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 26,
+      "students_without_sessions": 12,
+      "students_with_responses": 25,
+      "students_reached_target_task": 4,
+      "students_scored_on_target_task": 4
+    },
+    "avg_pct_correct_first": 40.2,
+    "avg_pct_correct_scaffolding": 15.7,
+    "avg_pct_never_correct": 44.1,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 48,
+        "tier": 2
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 43,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-craft",
+        "count": 37,
+        "tier": 3
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 26,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-theme",
+        "count": 13,
+        "tier": 3
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 4,
+      "MOJO.ANALYZE-CRAFT": 1,
+      "MOJO.WRITE-ARGUMENT": 1
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_3",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_14",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_16",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_31",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_36",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": true,
+          "times_used": 3
+        },
+        "pause": {
+          "used": false,
+          "pause_count": 0
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_14",
+            "USER_31",
+            "USER_36",
+            "USER_16"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": true
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": true,
+          "student_groups": [
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_36",
+                "USER_14"
+              ]
+            },
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_31",
+                "USER_16"
+              ]
+            }
+          ]
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "509f8256-42ba-437c-b5a8-b8bdee328c1d",
+    "unit": "3",
+    "lesson": "14",
+    "text_title": "I, Too",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Who is the speaker of the poem? Explain how you know.",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "In line 1, the speaker says “I, too, sing America.” What does “sing” mean in this line?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Why will those who make the speaker “eat in the kitchen,” in line 3, “be ashamed” in the future?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which inference about the speaker of the poem is most likely true?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which line from the poem most strongly supports the answer to Question 4?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "tdq-v-2",
+        "question": "What is the central idea of Langston Hughes's poem “I, Too”?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 26,
+      "students_without_sessions": 12,
+      "students_with_responses": 26,
+      "students_reached_target_task": 22,
+      "students_scored_on_target_task": 22
+    },
+    "avg_pct_correct_first": 28.5,
+    "avg_pct_correct_scaffolding": 20.5,
+    "avg_pct_never_correct": 50.9,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 45,
+        "tier": 2
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 42,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 32,
+        "tier": 3
+      },
+      {
+        "blocker": "task",
+        "count": 21,
+        "tier": 1
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 19,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 5,
+      "MOJO.SYNTHESIZE": 1
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_4",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_7",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_8",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_9",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_10",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": true
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 1
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_8",
+            "USER_10",
+            "USER_7",
+            "USER_9",
+            "USER_4"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": true
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": true,
+          "student_groups": [
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_8",
+                "USER_10"
+              ]
+            },
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_7",
+                "USER_4"
+              ]
+            }
+          ]
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "181beb78-b3ad-4c75-9539-33bd76e274bd",
+    "unit": "3",
+    "lesson": "15",
+    "text_title": "I, Too",
+    "activity_type": "language",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Look at lines 8-10. What specific moment in time is the speaker describing?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "In lines 11-12, the speaker uses the word “dare.” What does this word choice suggest about how others will behave toward him in the future?",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Read lines 11-14 with the line breaks as written. Then read them as if they were all on one line. What changes about the pace or rhythm?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Reread lines 8-18. What message is the speaker trying to communicate?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "How does the stanza from lines 8-14 convey a message to the reader?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "How do the lines and line breaks, when read aloud, help to convey the theme of the poem?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 26,
+      "students_without_sessions": 12,
+      "students_with_responses": 25,
+      "students_reached_target_task": 15,
+      "students_scored_on_target_task": 13
+    },
+    "avg_pct_correct_first": 37.2,
+    "avg_pct_correct_scaffolding": 17.1,
+    "avg_pct_never_correct": 45.6,
+    "top_blockers": [
+      {
+        "blocker": "vocabulary",
+        "count": 53,
+        "tier": 1
+      },
+      {
+        "blocker": "syntax",
+        "count": 36,
+        "tier": 1
+      },
+      {
+        "blocker": "task",
+        "count": 28,
+        "tier": 1
+      },
+      {
+        "blocker": "comprehend-text",
+        "count": 23,
+        "tier": 2
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 13,
+        "tier": 3
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 3,
+      "MOJO.ANALYZE-CRAFT": 1,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_18",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_14",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_28",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_4",
+        "concern_type": "low_completion",
+        "detail": "responded to fewer than 50% of questions"
+      },
+      {
+        "student_id": "USER_7",
+        "concern_type": "low_completion",
+        "detail": "responded to fewer than 50% of questions"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 1
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_4",
+            "USER_28",
+            "USER_18",
+            "USER_10",
+            "USER_31"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": true
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": true,
+          "student_groups": [
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_14",
+                "USER_28"
+              ]
+            },
+            {
+              "concern_type": "low_completion",
+              "student_ids": [
+                "USER_7",
+                "USER_4"
+              ]
+            }
+          ]
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "cdb0ea3f-421a-4343-9fe5-127da72ad94b",
+    "unit": "3",
+    "lesson": "16",
+    "text_title": "I, Too",
+    "activity_type": "closeread",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What happens to the speaker when company comes?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Reread lines 5-7. What do the actions “laugh,” “eat well,” and “grow strong” reveal about how the speaker responds to exclusion?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Hughes uses the dining table as a metaphor in this poem. What does this metaphor reveal about who is included in American society and who is excluded?",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Look at lines 15-17. How does Hughes's word choice in these lines help show the change the speaker envisions?",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "target-task-claim-v-6",
+        "question": "Consider the evidence you have gathered about the poem's structure and poetic elements. In one sentence, write a claim that answers the question: How does Langston Hughes use poetic elements and structure to explore the theme of change in “I, Too”?",
+        "mojo_standard": "MOJO.WRITE-ARGUMENT"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "shortwrite-v-6",
+        "question": "How does Langston Hughes use poetic elements and structure to explore the theme of change in his poem “I, Too”? Respond to this question in the form of a paragraph that includes a claim, at least two pieces of evidence, and an explanation.",
+        "mojo_standard": "MOJO.WRITE-ARGUMENT"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 20,
+      "students_without_sessions": 18,
+      "students_with_responses": 16,
+      "students_reached_target_task": 5,
+      "students_scored_on_target_task": 4
+    },
+    "avg_pct_correct_first": 15.8,
+    "avg_pct_correct_scaffolding": 18.6,
+    "avg_pct_never_correct": 65.6,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 29,
+        "tier": 2
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 26,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-craft",
+        "count": 25,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-theme",
+        "count": 18,
+        "tier": 3
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 10,
+        "tier": 3
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 2,
+      "MOJO.ANALYZE-CRAFT": 2,
+      "MOJO.WRITE-ARGUMENT": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_11",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_12",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_15",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_38",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_14",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": true,
+          "times_used": 2
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 2
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_14",
+            "USER_15"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": true
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": false,
+          "student_groups": []
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "d8d532aa-482d-47d4-b391-0975d15c6fa5",
+    "unit": "4",
+    "lesson": "2",
+    "text_title": "I Am Malala",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How does Malala know the school is closing permanently?",
+        "criteria": "Student identifies that no return date was announced.",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How does Malala respond to the closing of her school?",
+        "criteria": "Student identifies one specific action Malala takes after the closure (such as crying, staying late at school, being on TV, or writing her blog)",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which inference about Malala is best supported by the excerpt?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Based on the text, why does the Taliban condemn the education of girls and not the education of boys?",
+        "criteria": "Student identifies the Taliban's concern about \"Western ways.\"",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 5,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How do Malala's relatives feel about her choice to speak up for the right of girls to education?",
+        "criteria": "Student shows relatives are worried about her safety.",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which of the following best states a central or main idea of the passage?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which sentence from the passage most strongly supports the answer to the previous question?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 27,
+      "students_without_sessions": 11,
+      "students_with_responses": 26,
+      "students_reached_target_task": 25,
+      "students_scored_on_target_task": 22
+    },
+    "avg_pct_correct_first": 37.6,
+    "avg_pct_correct_scaffolding": 11.0,
+    "avg_pct_never_correct": 51.4,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 49,
+        "tier": 2
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 34,
+        "tier": 3
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 30,
+        "tier": 3
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 22,
+        "tier": 1
+      },
+      {
+        "blocker": "task",
+        "count": 14,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 5,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_18",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_6",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_12",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_26",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_4",
+        "concern_type": "low_completion",
+        "detail": "responded to fewer than 50% of questions"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": true
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": false,
+          "pause_count": 0
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_6",
+            "USER_26",
+            "USER_12",
+            "USER_4",
+            "USER_18"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": true
+        },
+        "celebrations_tool": {
+          "used": true
+        },
+        "conferences_tool": {
+          "used": false,
+          "student_groups": []
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "1ec8e44f-4754-4f66-8186-c7c37c83da35",
+    "unit": "4",
+    "lesson": "3",
+    "text_title": "I Am Malala",
+    "activity_type": "language",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "Highlight one visual detail that helps readers picture what Islamabad looks like.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Reread the following sentence from paragraph 15:\n\n\n“We visited the Lok Virsa museum, and it was a joy to celebrate our national heritage once again.”\n\n\nWhat does Malala's use of the phrase “once again” reveal about Swat's past?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "In paragraph 14, Malala compares Islamabad and Swat. What does this comparison reveal about her point of view on both cities?",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "In paragraph 15, Malala mentions that “Our own museum in Swat had closed” while describing her Islamabad visit. What does including this detail reveal about her feelings toward what Swat has lost?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "What is the author's purpose in telling readers about Islamabad in paragraph 14?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which of the following best describes the author's point of view in paragraph 15?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 26,
+      "students_without_sessions": 12,
+      "students_with_responses": 26,
+      "students_reached_target_task": 24,
+      "students_scored_on_target_task": 20
+    },
+    "avg_pct_correct_first": 40.3,
+    "avg_pct_correct_scaffolding": 9.2,
+    "avg_pct_never_correct": 50.5,
+    "top_blockers": [
+      {
+        "blocker": "vocabulary",
+        "count": 50,
+        "tier": 1
+      },
+      {
+        "blocker": "syntax",
+        "count": 30,
+        "tier": 1
+      },
+      {
+        "blocker": "comprehend-text",
+        "count": 27,
+        "tier": 2
+      },
+      {
+        "blocker": "task",
+        "count": 22,
+        "tier": 1
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 17,
+        "tier": 3
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.CITE-EVIDENCE": 1,
+      "MOJO.ANALYZE-CHARACTER": 2,
+      "MOJO.ANALYZE-CRAFT": 1,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_4",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_12",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_19",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_35",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": true
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 2
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_4",
+            "USER_12",
+            "USER_35"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": true
+        },
+        "celebrations_tool": {
+          "used": true
+        },
+        "conferences_tool": {
+          "used": true,
+          "student_groups": [
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_12",
+                "USER_4"
+              ]
+            },
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_19",
+                "USER_35"
+              ]
+            }
+          ]
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "f344f119-faed-4f2b-8319-4b085804daad",
+    "unit": "4",
+    "lesson": "5",
+    "text_title": "Malala Yousafzai - Nobel Lecture",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How does Malala feel about education?",
+        "criteria": "Student identifies that Malala feels education is extremely important, valuable, essential, or views it positively.",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "What does the word “succumb” mean as it is used in paragraph 31?",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What challenges do the “sisters” that Malala describes face?",
+        "criteria": "Student identifies one or more specific challenges that Malala's \"sisters\" face, such as violence, shootings, abuse, threats, kidnapping, becoming refugees, or obstacles to education.",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "According to Malala, why couldn't her friend become a doctor?",
+        "criteria": "Student identifies that Malala's friend couldn't become a doctor because she was forced to get married at age 12, and/or because she was a girl, and/or because she had a baby young.",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "Highlight one sentence from the text that best supports the inference that progressive ideas are at the core of many Muslims' faith.",
+        "criteria": "The student selects a sentence where Malala explicitly references Islamic texts (Quran or Prophet Muhammad) to show that Islam supports education, peace, or the value of human life.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which statement best describes a central idea of the text?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which excerpt from the text most strongly supports the answer to the previous question?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 38,
+      "students_with_sessions": 26,
+      "students_without_sessions": 12,
+      "students_with_responses": 23,
+      "students_reached_target_task": 15,
+      "students_scored_on_target_task": 11
+    },
+    "avg_pct_correct_first": 46.8,
+    "avg_pct_correct_scaffolding": 23.0,
+    "avg_pct_never_correct": 30.2,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 40,
+        "tier": 2
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 29,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 28,
+        "tier": 3
+      },
+      {
+        "blocker": "task",
+        "count": 20,
+        "tier": 1
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 7,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 3,
+      "MOJO.CITE-EVIDENCE": 2,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_12",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_15",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_26",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_4",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_6",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": false,
+          "pause_count": 0
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_12",
+            "USER_26",
+            "USER_4",
+            "USER_15",
+            "USER_6"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": true
+        },
+        "conferences_tool": {
+          "used": false,
+          "student_groups": []
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  }
+]

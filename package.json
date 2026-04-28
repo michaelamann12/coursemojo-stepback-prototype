@@ -1,0 +1,28 @@
+{
+  "name": "2026-coursemojo-retreat-lab",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "biome": "biome check --fix app/api/assets_source",
+    "graphql:dev": "node graphql/server.mjs",
+    "graphql:start": "node graphql/server.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pg": "^8.12.0",
+    "postgraphile": "^4.14.0",
+    "preact": "^10.29.1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@preact/preset-vite": "^2.10.5",
+    "@types/node": "^24.12.2",
+    "typescript": "~6.0.2",
+    "vite": "^8.0.10"
+  }
+}

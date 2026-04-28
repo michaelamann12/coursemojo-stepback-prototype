@@ -1,0 +1,655 @@
+[
+  {
+    "activity_id": "f45d2552-7d49-4e7c-a680-e7b262d37e1c",
+    "unit": "1",
+    "lesson": "14",
+    "text_title": "The Magic Marker Mystery",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What is Mickey's initial reaction to being called into Principal Abrego's office in Act One?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Re-read paragraphs 35-36. What is most closely the suggested meaning of “think of me as a benefactor”?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How does Bucho react to being the target of bullying accusations?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How does Mickey prove that Bucho is innocent, that he did not write the graffiti?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which conclusion is best supported by the ending of the play?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "tdq-v-2",
+        "question": "What is the primary conflict in “The Magic Marker Mystery”?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which line from the text best supports your answer to the previous question?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 4,
+      "students_with_sessions": 4,
+      "students_without_sessions": 0,
+      "students_with_responses": 3,
+      "students_reached_target_task": 0,
+      "students_scored_on_target_task": 0
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 27,
+        "tier": 2
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 21,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 11,
+        "tier": 3
+      },
+      {
+        "blocker": "task",
+        "count": 10,
+        "tier": 1
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 7,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 5,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_2",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      },
+      {
+        "student_id": "USER_1",
+        "concern_type": "low_completion",
+        "detail": "responded to fewer than 50% of questions"
+      },
+      {
+        "student_id": "USER_3",
+        "concern_type": "low_completion",
+        "detail": "responded to fewer than 50% of questions"
+      },
+      {
+        "student_id": "USER_4",
+        "concern_type": "low_completion",
+        "detail": "responded to fewer than 50% of questions"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": true,
+          "times_used": 2
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 1
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_2",
+            "USER_4",
+            "USER_3",
+            "USER_1"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": true,
+          "student_groups": [
+            {
+              "concern_type": "low_completion",
+              "student_ids": [
+                "USER_1",
+                "USER_4"
+              ]
+            }
+          ]
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "4ca231c1-07ec-43aa-8170-71d7b7402563",
+    "unit": "1",
+    "lesson": "16",
+    "text_title": "The Magic Marker Mystery",
+    "activity_type": "writing",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Look at paragraphs 42-50 in Act Two, Scene 1. What is one specific thing Joe says or does that shows he's listening to Mickey's conversation about the graffiti case?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "How does the playwright use stage directions in Act Two, Scene 1 to create suspense about who the real culprit might be?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which stage direction from Act Two, Scene 1 best supports the answer to the previous question?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "Look at  Act Three (paragraphs 70-90). Highlight one detail that shows Joe's emotions or reactions, but do NOT tell us what he's thinking internally.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "In paragraph 48, Joe says:\n \n“What is it they say about leopards and their dots?” but Mickey corrects him that it's “spots.” \n\nWhat does this mistake most likely reveal about Joe's character?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 0,
+        "step": 5,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What is one technique that the playwright uses to develop Mickey's character?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "quickwrite-v-6",
+        "question": "How would Act Three of “The Magic Marker Mystery” be different if it gave more insight into Joe's perspective, through elements like details or stage directions? \n\nRespond to this question in the form of a paragraph that includes a claim, evidence, and explanation that indicates how this would affect the development of the play as a whole.",
+        "mojo_standard": "MOJO.WRITE-ARGUMENT"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 4,
+      "students_with_sessions": 1,
+      "students_without_sessions": 3,
+      "students_with_responses": 0,
+      "students_reached_target_task": 0,
+      "students_scored_on_target_task": 0
+    },
+    "avg_pct_correct_first": null,
+    "avg_pct_correct_scaffolding": null,
+    "avg_pct_never_correct": null,
+    "top_blockers": [
+      {
+        "blocker": "evidence",
+        "count": 25,
+        "tier": 4
+      },
+      {
+        "blocker": "development",
+        "count": 15,
+        "tier": 4
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 15,
+        "tier": 3
+      },
+      {
+        "blocker": "organization",
+        "count": 11,
+        "tier": 4
+      },
+      {
+        "blocker": "focus",
+        "count": 9,
+        "tier": 4
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 5,
+      "MOJO.CITE-EVIDENCE": 1,
+      "MOJO.WRITE-ARGUMENT": 1
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_4",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": true,
+          "times_used": 1
+        },
+        "pause": {
+          "used": false,
+          "pause_count": 0
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_4"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": false,
+          "student_groups": []
+        },
+        "post_activity_summary": {
+          "used": false
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "cbac682e-13e9-4642-95b4-137ef3a6d03a",
+    "unit": "3",
+    "lesson": "11",
+    "text_title": "Hatshepsut: His Majesty, Herself",
+    "activity_type": "language",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What does the author tell us in paragraph 17 about Hatshepsut's approach to ruling Egypt?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "The author creates a contrast in the opening sentences between what Hatshepsut didn't do and what she did do. What does this contrast reveal about her values as a leader?",
+        "mojo_standard": "MOJO.COMPARE-CONTRAST"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "The author states that Hatshepsut built monuments, “to proclaim [Egypt's] power.” Based on the details about the temple at Deir el-Bahri, how could a monument proclaim power?",
+        "mojo_standard": "MOJO.ANALYZE-ARGUMENT"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How do the details about the temple at Deir el-Bahri connect to Hatshepsut's approach to ruling?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which of the following statements best portrays the central idea of the paragraph?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which line from the paragraph best supports your answer to the previous question?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 4,
+      "students_with_sessions": 1,
+      "students_without_sessions": 3,
+      "students_with_responses": 0,
+      "students_reached_target_task": 0,
+      "students_scored_on_target_task": 0
+    },
+    "avg_pct_correct_first": null,
+    "avg_pct_correct_scaffolding": null,
+    "avg_pct_never_correct": null,
+    "top_blockers": [
+      {
+        "blocker": "syntax",
+        "count": 18,
+        "tier": 1
+      },
+      {
+        "blocker": "comprehend-text",
+        "count": 17,
+        "tier": 2
+      },
+      {
+        "blocker": "vocabulary",
+        "count": 15,
+        "tier": 1
+      },
+      {
+        "blocker": "task",
+        "count": 3,
+        "tier": 1
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 3,
+        "tier": 3
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 2,
+      "MOJO.COMPARE-CONTRAST": 1,
+      "MOJO.ANALYZE-ARGUMENT": 1,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_3",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": true,
+          "times_used": 2
+        },
+        "pause": {
+          "used": false,
+          "pause_count": 0
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_3"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": true
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": false,
+          "student_groups": []
+        },
+        "post_activity_summary": {
+          "used": false
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "86c41373-a7ed-4b3f-af04-064867fb309a",
+    "unit": "3",
+    "lesson": "12",
+    "text_title": "Hatshepsut: His Majesty, Herself",
+    "activity_type": "closeread",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "In paragraph 2, the author includes an anecdote about Hatshepsut's siblings. How does this anecdote help introduce important information about Hatshepsut's position in the royal family?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Reread paragraphs 8-9 where the author lists the qualifications needed for a regent. Why might the author have included this detailed description of what a regent should be like?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "In paragraph 9, the author mentions that “Women had acted as regents for infants at other times in Egypt's history.”\n\n\nWhy might the author have included this historical information?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "In paragraph 13, the author contrasts Hatshepsut with other women who had ruled Egypt. What is the author's main point in making this contrast?",
+        "mojo_standard": "MOJO.COMPARE-CONTRAST"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "In paragraph 13, the author states that Hatshepsut “would be different” from other female rulers. What specific actions or qualities made her different?",
+        "mojo_standard": "MOJO.COMPARE-CONTRAST"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which statement best summarizes how the author portrays Hatshepsut's leadership?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which detail from the excerpt best supports the answer to Part A?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 4,
+      "students_with_sessions": 1,
+      "students_without_sessions": 3,
+      "students_with_responses": 0,
+      "students_reached_target_task": 0,
+      "students_scored_on_target_task": 0
+    },
+    "avg_pct_correct_first": null,
+    "avg_pct_correct_scaffolding": null,
+    "avg_pct_never_correct": null,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 22,
+        "tier": 2
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 12,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 10,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-craft",
+        "count": 7,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-theme",
+        "count": 7,
+        "tier": 3
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 3,
+      "MOJO.COMPARE-CONTRAST": 2,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_4",
+        "concern_type": "no_responses",
+        "detail": "started activity but submitted no responses"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": true,
+          "times_used": 2
+        },
+        "pause": {
+          "used": false,
+          "pause_count": 0
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_4"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": false,
+          "student_groups": []
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  }
+]

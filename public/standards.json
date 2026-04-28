@@ -1,0 +1,1896 @@
+{
+  "metadata": {
+    "state_frameworks": {
+      "CC": "Common Core State Standards (CCSS) for ELA",
+      "TN": "Tennessee Academic Standards for ELA (2023)",
+      "TX": "Texas Essential Knowledge and Skills (TEKS) for ELAR",
+      "FL": "Florida B.E.S.T. Standards: ELA (2020)",
+      "VA": "Virginia Standards of Learning (SOL): English",
+      "IN": "Indiana Academic Standards: ELA (2023)",
+      "MN": "Minnesota Academic Standards: ELA (2020/2024)",
+      "NE": "Nebraska College and Career Ready Standards: ELA (2021)",
+      "OK": "Oklahoma Academic Standards: ELA (2021)",
+      "SC": "SC College- and Career-Ready Standards: ELA (2023)",
+      "AL": "Alabama Course of Study: ELA (2021)",
+      "MO": "Missouri Learning Standards: ELA (2016)",
+      "NY": "New York Next Generation ELA Learning Standards (2017)",
+      "NC": "NC Standard Course of Study: ELA (2017)",
+      "SD": "South Dakota State Standards: ELA (2018)"
+    }
+  },
+  "version": "1.1",
+  "updated": "2026-02-27",
+  "standards": {
+    "MOJO.CITE-EVIDENCE": {
+      "description": "Locate, identify, or retrieve explicit information from the text. Includes literal comprehension, paraphrase, and evidence identification questions.",
+      "states": {
+        "CC": {
+          "literary": [
+            {
+              "key": "RL.6.1",
+              "text": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "RI.6.1",
+              "text": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text."
+            }
+          ]
+        },
+        "TN": {
+          "literary": [
+            {
+              "key": "6.RL.KID.1",
+              "text": "Analyze what a text says explicitly and draw logical inferences; cite textual evidence to support conclusions."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.KID.1",
+              "text": "Analyze what a text says explicitly and draw logical inferences; cite textual evidence to support conclusions."
+            }
+          ]
+        },
+        "TX": {
+          "literary": [
+            {
+              "key": "6.5.F",
+              "text": "Make inferences and use evidence to support understanding."
+            },
+            {
+              "key": "6.6.C",
+              "text": "Use text evidence to support an appropriate response."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.5.F",
+              "text": "Make inferences and use evidence to support understanding."
+            },
+            {
+              "key": "6.6.C",
+              "text": "Use text evidence to support an appropriate response."
+            }
+          ]
+        },
+        "FL": {
+          "literary": [],
+          "informational": [
+            {
+              "key": "ELA.6.R.2.2",
+              "text": "Analyze the central idea(s), implied or explicit, and its development throughout a text."
+            }
+          ]
+        },
+        "VA": {
+          "literary": [
+            {
+              "key": "6.5",
+              "text": "Read and demonstrate comprehension of a variety of fictional texts, literary nonfiction, and poetry."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.6",
+              "text": "Read and demonstrate comprehension of a variety of nonfiction texts."
+            }
+          ]
+        },
+        "IN": {
+          "literary": [
+            {
+              "key": "6.RC.1",
+              "text": "Analyze what a text says explicitly as well as draw inferences from the text through citing textual evidence."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RC.1",
+              "text": "Analyze what a text says explicitly as well as draw inferences from the text through citing textual evidence."
+            }
+          ]
+        },
+        "MN": {
+          "literary": [
+            {
+              "key": "6.1.4.1",
+              "text": "Cite textual evidence to support analysis of what the text says explicitly and inferences drawn from the text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.1.4.1",
+              "text": "Cite textual evidence to support analysis of what the text says explicitly and inferences drawn from the text."
+            }
+          ]
+        },
+        "NE": {
+          "literary": [
+            {
+              "key": "LA.6.RP.6",
+              "text": "Analyze a literary text to answer and develop inferential and evaluative questions to enhance comprehension, quoting or paraphrasing specific evidence from the text."
+            }
+          ],
+          "informational": []
+        },
+        "OK": {
+          "literary": [
+            {
+              "key": "6.3.R.8",
+              "text": "Analyze one or more ideas from a text, providing textual evidence to support their inferences."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.3.R.8",
+              "text": "Analyze one or more ideas from a text, providing textual evidence to support their inferences."
+            }
+          ]
+        },
+        "SC": {
+          "literary": [],
+          "informational": [
+            {
+              "key": "ELA.6.AOR.2.2",
+              "text": "Analyze how supporting details contribute to the development of a central idea(s) over the course of an informational text."
+            }
+          ]
+        },
+        "AL": {
+          "literary": [
+            {
+              "key": "1",
+              "text": "Analyze how key details, including those obtained from illustrations and other graphic features, support the implicit and explicit meaning of the text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "1",
+              "text": "Analyze how key details, including those obtained from illustrations and other graphic features, support the implicit and explicit meaning of the text."
+            }
+          ]
+        },
+        "MO": {
+          "literary": [
+            {
+              "key": "6.RL.A.1",
+              "text": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.A.1",
+              "text": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text."
+            }
+          ]
+        },
+        "NY": {
+          "literary": [
+            {
+              "key": "6R1",
+              "text": "Cite textual evidence to support an analysis of what the text says explicitly/implicitly."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6R1",
+              "text": "Cite textual evidence to support an analysis of what the text says explicitly/implicitly."
+            }
+          ]
+        },
+        "NC": {
+          "literary": [
+            {
+              "key": "RL.6.1",
+              "text": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "RI.6.1",
+              "text": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text."
+            }
+          ]
+        },
+        "SD": {
+          "literary": [
+            {
+              "key": "6.RL.1",
+              "text": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.1",
+              "text": "Cite relevant textual evidence to support analysis of what the text says explicitly as well as logical inferences drawn from the text."
+            }
+          ]
+        }
+      }
+    },
+    "MOJO.ANALYZE-CHARACTER": {
+      "description": "Analyze character development, motivation, relationships, or how characters interact with plot and setting. At grade 6, describe how a particular story's or drama's plot unfolds and how the characters respond or change.",
+      "states": {
+        "CC": {
+          "literary": [
+            {
+              "key": "RL.6.3",
+              "text": "Describe how a particular story's or drama's plot unfolds in a series of episodes as well as how the characters respond or change as the plot moves toward a resolution."
+            }
+          ],
+          "informational": [
+            {
+              "key": "RL.6.3",
+              "text": "Describe how a particular story's or drama's plot unfolds in a series of episodes as well as how the characters respond or change as the plot moves toward a resolution."
+            }
+          ]
+        },
+        "TN": {
+          "literary": [
+            {
+              "key": "6.RL.KID.3",
+              "text": "Describe how a particular story's or drama's plot unfolds and how the characters respond or change as the plot moves toward a resolution."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RL.KID.3",
+              "text": "Describe how a particular story's or drama's plot unfolds and how the characters respond or change as the plot moves toward a resolution."
+            }
+          ]
+        },
+        "TX": {
+          "literary": [
+            {
+              "key": "6.7.B",
+              "text": "Analyze how characters' internal and external responses develop the plot."
+            },
+            {
+              "key": "6.7.C",
+              "text": "Analyze plot elements, including rising action, climax, falling action, resolution."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.7.B",
+              "text": "Analyze how characters' internal and external responses develop the plot."
+            },
+            {
+              "key": "6.7.C",
+              "text": "Analyze plot elements, including rising action, climax, falling action, resolution."
+            }
+          ]
+        },
+        "FL": {
+          "literary": [
+            {
+              "key": "ELA.6.R.1.1",
+              "text": "Analyze how the interaction between characters contributes to the development of a plot in a literary text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "ELA.6.R.1.1",
+              "text": "Analyze how the interaction between characters contributes to the development of a plot in a literary text."
+            }
+          ]
+        },
+        "VA": {
+          "literary": [
+            {
+              "key": "6.5",
+              "text": "Read and demonstrate comprehension of a variety of fictional texts, literary nonfiction, and poetry."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.5",
+              "text": "Read and demonstrate comprehension of a variety of fictional texts, literary nonfiction, and poetry."
+            }
+          ]
+        },
+        "IN": {
+          "literary": [
+            {
+              "key": "6.RC.3",
+              "text": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure of a work and contributes to theme, characterization, setting, or plot."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RC.3",
+              "text": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure of a work and contributes to theme, characterization, setting, or plot."
+            }
+          ]
+        },
+        "MN": {
+          "literary": [
+            {
+              "key": "6.1.4.2",
+              "text": "Determine a theme or central idea of a text and analyze its development over the course of the text; summarize."
+            },
+            {
+              "key": "6.2.5.2",
+              "text": "Write to respond to a literary text, demonstrating understanding of character complexity."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.2.5.2",
+              "text": "Write to respond to a literary text, demonstrating understanding of character complexity."
+            }
+          ]
+        },
+        "NE": {
+          "literary": [
+            {
+              "key": "LA.6.RP.2",
+              "text": "Explain how a plot unfolds as well as how the characters respond to events or changes as the plot moves toward a resolution."
+            }
+          ],
+          "informational": [
+            {
+              "key": "LA.6.RP.2",
+              "text": "Explain how a plot unfolds as well as how the characters respond to events or changes as the plot moves toward a resolution."
+            }
+          ]
+        },
+        "OK": {
+          "literary": [
+            {
+              "key": "6.3.R.3",
+              "text": "Analyze how literary elements contribute to the meaning of a literary text: setting, plot, characters (protagonist, antagonist), characterization, conflict (internal, external), point of view (third person limited and omniscient)."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.3.R.3",
+              "text": "Analyze how literary elements contribute to the meaning of a literary text: setting, plot, characters (protagonist, antagonist), characterization, conflict (internal, external), point of view (third person limited and omniscient)."
+            }
+          ]
+        },
+        "SC": {
+          "literary": [
+            {
+              "key": "ELA.6.AOR.1.1",
+              "text": "Analyze how specific events and descriptive details develop the plot, reveal aspects of the characters, and/or create meaning."
+            }
+          ],
+          "informational": [
+            {
+              "key": "ELA.6.AOR.1.1",
+              "text": "Analyze how specific events and descriptive details develop the plot, reveal aspects of the characters, and/or create meaning."
+            }
+          ]
+        },
+        "AL": {
+          "literary": [
+            {
+              "key": "2",
+              "text": "Analyze how differences in the points of view of characters and the audience or reader generate effects such as suspense, humor, or dramatic irony in literary and informational texts."
+            }
+          ],
+          "informational": []
+        },
+        "MO": {
+          "literary": [
+            {
+              "key": "6.RL.A.3",
+              "text": "Describe how a particular story's or drama's plot unfolds in a series of episodes as well as how the characters respond or change as the plot moves toward a resolution."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RL.A.3",
+              "text": "Describe how a particular story's or drama's plot unfolds in a series of episodes as well as how the characters respond or change as the plot moves toward a resolution."
+            }
+          ]
+        },
+        "NY": {
+          "literary": [
+            {
+              "key": "6R3",
+              "text": "In literary texts, describe how a plot unfolds and how characters respond or change."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6R3",
+              "text": "In literary texts, describe how a plot unfolds and how characters respond or change."
+            }
+          ]
+        },
+        "NC": {
+          "literary": [
+            {
+              "key": "RL.6.3",
+              "text": "Describe how a particular story's or drama's plot unfolds in a series of episodes as well as how the characters respond or change as the plot moves toward a resolution."
+            }
+          ],
+          "informational": [
+            {
+              "key": "RL.6.3",
+              "text": "Describe how a particular story's or drama's plot unfolds in a series of episodes as well as how the characters respond or change as the plot moves toward a resolution."
+            }
+          ]
+        },
+        "SD": {
+          "literary": [
+            {
+              "key": "6.RL.3",
+              "text": "Describe how a particular story's or drama's plot unfolds in a series of episodes as well as how the characters respond or change as the plot moves toward a resolution."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RL.3",
+              "text": "Describe how a particular story's or drama's plot unfolds in a series of episodes as well as how the characters respond or change as the plot moves toward a resolution."
+            }
+          ]
+        }
+      }
+    },
+    "MOJO.ANALYZE-CRAFT": {
+      "description": "Analyze word choice, figurative language, rhetorical devices, text structure, point of view, or other author decisions and their effects.",
+      "states": {
+        "CC": {
+          "literary": [
+            {
+              "key": "RL.6.4",
+              "text": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of a specific word choice on meaning and tone."
+            },
+            {
+              "key": "RL.6.5",
+              "text": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure of a text and contributes to the development of the theme, setting, or plot."
+            },
+            {
+              "key": "RL.6.6",
+              "text": "Explain how an author develops the point of view of the narrator or speaker in a text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "RI.6.4",
+              "text": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings."
+            },
+            {
+              "key": "RI.6.6",
+              "text": "Determine an author's point of view or purpose in a text and explain how it is conveyed in the text."
+            }
+          ]
+        },
+        "TN": {
+          "literary": [
+            {
+              "key": "6.RL.CS.4",
+              "text": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone."
+            },
+            {
+              "key": "6.RL.CS.5",
+              "text": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure of a text and contributes to the development of the theme, setting, or plot."
+            },
+            {
+              "key": "6.RL.CS.6",
+              "text": "Explain how an author develops the point of view of the narrator or speaker in a text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.CS.4",
+              "text": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings."
+            },
+            {
+              "key": "6.RI.CS.6",
+              "text": "Determine an author's point of view or purpose and explain how it is conveyed in a text."
+            }
+          ]
+        },
+        "TX": {
+          "literary": [
+            {
+              "key": "6.9.A",
+              "text": "Explain author's purpose and message in a text."
+            },
+            {
+              "key": "6.9.B",
+              "text": "Analyze how the use of text structure contributes to the author's purpose."
+            },
+            {
+              "key": "6.9.F",
+              "text": "Analyze how the author's use of language contributes to mood, voice, and tone."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.9.A",
+              "text": "Explain author's purpose and message in a text."
+            },
+            {
+              "key": "6.9.B",
+              "text": "Analyze how the use of text structure contributes to the author's purpose."
+            },
+            {
+              "key": "6.9.F",
+              "text": "Analyze how the author's use of language contributes to mood, voice, and tone."
+            }
+          ]
+        },
+        "FL": {
+          "literary": [
+            {
+              "key": "ELA.6.R.3.1",
+              "text": "Explain how figurative language contributes to tone and meaning in text(s)."
+            },
+            {
+              "key": "ELA.6.R.1.4",
+              "text": "Describe the impact of various poetic forms on meaning and style."
+            },
+            {
+              "key": "ELA.6.R.1.3",
+              "text": "Explain the influence of multiple narrators and/or shifts in point of view in a literary text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "ELA.6.R.2.1",
+              "text": "Explain how individual text sections and/or features convey meaning in texts."
+            },
+            {
+              "key": "ELA.6.R.2.3",
+              "text": "Analyze authors' purpose(s) in multiple accounts of the same event or topic."
+            },
+            {
+              "key": "ELA.6.R.3.4",
+              "text": "Identify rhetorical appeals in a text."
+            }
+          ]
+        },
+        "VA": {
+          "literary": [
+            {
+              "key": "6.4",
+              "text": "Read and determine the meanings of unfamiliar words and phrases within authentic texts."
+            },
+            {
+              "key": "6.5",
+              "text": "Read and demonstrate comprehension of a variety of fictional texts, literary nonfiction, and poetry."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.4",
+              "text": "Read and determine the meanings of unfamiliar words and phrases within authentic texts."
+            },
+            {
+              "key": "6.6",
+              "text": "Read and demonstrate comprehension of a variety of nonfiction texts."
+            }
+          ]
+        },
+        "IN": {
+          "literary": [
+            {
+              "key": "6.RC.10",
+              "text": "Use context to determine or clarify word and phrase meanings."
+            },
+            {
+              "key": "6.RC.12",
+              "text": "Distinguish among the connotations of words with similar denotations."
+            },
+            {
+              "key": "6.RC.3",
+              "text": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure of a work and contributes to theme, characterization, setting, or plot."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RC.10",
+              "text": "Use context to determine or clarify word and phrase meanings."
+            },
+            {
+              "key": "6.RC.12",
+              "text": "Distinguish among the connotations of words with similar denotations."
+            },
+            {
+              "key": "6.RC.3",
+              "text": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure of a work and contributes to theme, characterization, setting, or plot."
+            }
+          ]
+        },
+        "MN": {
+          "literary": [
+            {
+              "key": "6.1.5.1",
+              "text": "Determine the meaning of words and phrases, including figurative, connotative, and technical meanings; analyze the impact of word choice on meaning and tone."
+            },
+            {
+              "key": "6.1.5.2",
+              "text": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure and contributes to the development of theme, setting, or plot."
+            },
+            {
+              "key": "6.1.5.3",
+              "text": "Explain how an author develops the point of view of the narrator or speaker; determine an author's point of view or purpose."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.1.5.1",
+              "text": "Determine the meaning of words and phrases, including figurative, connotative, and technical meanings; analyze the impact of word choice on meaning and tone."
+            },
+            {
+              "key": "6.1.5.2",
+              "text": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure and contributes to the development of theme, setting, or plot."
+            },
+            {
+              "key": "6.1.5.3",
+              "text": "Explain how an author develops the point of view of the narrator or speaker; determine an author's point of view or purpose."
+            }
+          ]
+        },
+        "NE": {
+          "literary": [
+            {
+              "key": "LA.6.RP.3",
+              "text": "Explain how an author establishes and conveys the point(s) of view of a narrator or speaker in a literary text."
+            },
+            {
+              "key": "LA.6.RP.4",
+              "text": "Analyze how a sequence of chapters, scenes, or stanzas contribute to the development of literary elements (e.g., theme, setting, or plot)."
+            }
+          ],
+          "informational": [
+            {
+              "key": "LA.6.RI.3",
+              "text": "Explain how an author establishes and conveys a perspective or purpose in an informational text."
+            }
+          ]
+        },
+        "OK": {
+          "literary": [
+            {
+              "key": "6.3.R.4",
+              "text": "Analyze how literary devices contribute to the meaning of a text: figurative language (simile, metaphor, personification, hyperbole, imagery, symbolism, idiom), sound devices (onomatopoeia, alliteration)."
+            },
+            {
+              "key": "6.4.R.2",
+              "text": "Use context clues, connotation, and denotation to determine or clarify word meanings."
+            },
+            {
+              "key": "6.3.R.3",
+              "text": "Analyze how literary elements contribute to the meaning of a literary text: setting, plot, characters (protagonist, antagonist), characterization, conflict (internal, external), point of view (third person limited and omniscient)."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.3.R.4",
+              "text": "Analyze how literary devices contribute to the meaning of a text: figurative language (simile, metaphor, personification, hyperbole, imagery, symbolism, idiom), sound devices (onomatopoeia, alliteration)."
+            },
+            {
+              "key": "6.4.R.2",
+              "text": "Use context clues, connotation, and denotation to determine or clarify word meanings."
+            },
+            {
+              "key": "6.3.R.3",
+              "text": "Analyze how literary elements contribute to the meaning of a literary text: setting, plot, characters (protagonist, antagonist), characterization, conflict (internal, external), point of view (third person limited and omniscient)."
+            }
+          ]
+        },
+        "SC": {
+          "literary": [
+            {
+              "key": "ELA.6.AOR.8.1",
+              "text": "Interpret an author's use of figurative, connotative, and technical language."
+            },
+            {
+              "key": "ELA.6.AOR.5.1",
+              "text": "Analyze how a particular sentence, paragraph, chapter, scene, or stanza fits into the overall structure of a text and contributes to the development of theme, setting, or plot."
+            },
+            {
+              "key": "ELA.6.AOR.3.1",
+              "text": "Determine and explain the impact of multiple narrators or shifts in points of view and/or perspective."
+            }
+          ],
+          "informational": [
+            {
+              "key": "ELA.6.AOR.8.1",
+              "text": "Interpret an author's use of figurative, connotative, and technical language."
+            },
+            {
+              "key": "ELA.6.AOR.5.2",
+              "text": "Analyze how individual text sections fit into the overall structure of an informational text and contribute to the development of ideas."
+            }
+          ]
+        },
+        "AL": {
+          "literary": [
+            {
+              "key": "28",
+              "text": "Analyze word meanings through word parts, context clues, connotation and denotation, and reference tools."
+            },
+            {
+              "key": "2",
+              "text": "Analyze how differences in the points of view of characters and the audience or reader generate effects such as suspense, humor, or dramatic irony."
+            },
+            {
+              "key": "4",
+              "text": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure of a text and contributes to the development of the theme, setting, or plot."
+            }
+          ],
+          "informational": [
+            {
+              "key": "28",
+              "text": "Analyze word meanings through word parts, context clues, connotation and denotation, and reference tools."
+            },
+            {
+              "key": "4",
+              "text": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure of a text and contributes to the development of the theme, setting, or plot."
+            }
+          ]
+        },
+        "MO": {
+          "literary": [
+            {
+              "key": "6.RL.B.4",
+              "text": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of a specific word choice on meaning and tone."
+            },
+            {
+              "key": "6.RL.B.5",
+              "text": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure of a text and contributes to the development of the theme, setting, or plot."
+            },
+            {
+              "key": "6.RL.B.6",
+              "text": "Explain how an author develops the point of view of the narrator or speaker in a text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.B.4",
+              "text": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings."
+            },
+            {
+              "key": "6.RI.B.6",
+              "text": "Determine an author's point of view or purpose in a text and explain how it is conveyed in the text."
+            }
+          ]
+        },
+        "NY": {
+          "literary": [
+            {
+              "key": "6R4",
+              "text": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings. Analyze the impact of specific word choices on meaning and tone."
+            },
+            {
+              "key": "6R5",
+              "text": "In literary texts, analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure and contributes to the development of theme, setting, or plot. In informational texts, analyze how a particular sentence, paragraph, chapter, or section fits into the overall structure and contributes to the development of ideas."
+            },
+            {
+              "key": "6R6",
+              "text": "In literary texts, explain how an author develops the point of view of the narrator or speaker. In informational texts, determine an author's point of view or purpose and explain how it is conveyed."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6R4",
+              "text": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings. Analyze the impact of specific word choices on meaning and tone."
+            },
+            {
+              "key": "6R5",
+              "text": "In literary texts, analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure and contributes to the development of theme, setting, or plot. In informational texts, analyze how a particular sentence, paragraph, chapter, or section fits into the overall structure and contributes to the development of ideas."
+            },
+            {
+              "key": "6R6",
+              "text": "In literary texts, explain how an author develops the point of view of the narrator or speaker. In informational texts, determine an author's point of view or purpose and explain how it is conveyed."
+            }
+          ]
+        },
+        "NC": {
+          "literary": [
+            {
+              "key": "RL.6.4",
+              "text": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of a specific word choice on meaning and tone."
+            },
+            {
+              "key": "RL.6.5",
+              "text": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure of a text and contributes to the development of the theme, setting, or plot."
+            },
+            {
+              "key": "RL.6.6",
+              "text": "Explain how an author develops the point of view of the narrator or speaker in a text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "RI.6.4",
+              "text": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings."
+            },
+            {
+              "key": "RI.6.6",
+              "text": "Determine an author's point of view or purpose in a text and explain how it is conveyed in the text."
+            }
+          ]
+        },
+        "SD": {
+          "literary": [
+            {
+              "key": "6.RL.4",
+              "text": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of a specific word choice on meaning and tone."
+            },
+            {
+              "key": "6.RL.5",
+              "text": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure of a text and contributes to the development of the theme, setting, or plot."
+            },
+            {
+              "key": "6.RL.6",
+              "text": "Explain how an author develops the point of view of the narrator or speaker in a text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.4",
+              "text": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings."
+            },
+            {
+              "key": "6.RI.6",
+              "text": "Determine an author's point of view or purpose in a text and explain how it is conveyed in the text."
+            }
+          ]
+        }
+      }
+    },
+    "MOJO.ANALYZE-THEME": {
+      "description": "Identify, interpret, or analyze theme, central idea, or deeper meaning — moving from 'what happens' to 'what it means.'",
+      "states": {
+        "CC": {
+          "literary": [
+            {
+              "key": "RL.6.2",
+              "text": "Determine a theme or central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments."
+            }
+          ],
+          "informational": [
+            {
+              "key": "RI.6.2",
+              "text": "Determine a central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments."
+            }
+          ]
+        },
+        "TN": {
+          "literary": [
+            {
+              "key": "6.RL.KID.2",
+              "text": "Determine a theme or central idea of a text and analyze its development over the course of the text; provide an objective summary."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.KID.2",
+              "text": "Determine a central idea of a text and analyze its development over the course of the text; provide an objective summary."
+            }
+          ]
+        },
+        "TX": {
+          "literary": [
+            {
+              "key": "6.7.A",
+              "text": "Infer multiple themes within and across texts using text evidence."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.5.G",
+              "text": "Evaluate details read to determine key ideas."
+            }
+          ]
+        },
+        "FL": {
+          "literary": [
+            {
+              "key": "ELA.6.R.1.2",
+              "text": "Analyze the development of stated or implied theme(s) throughout a literary text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "ELA.6.R.2.2",
+              "text": "Analyze the central idea(s), implied or explicit, and its development throughout a text."
+            }
+          ]
+        },
+        "VA": {
+          "literary": [
+            {
+              "key": "6.5",
+              "text": "Read and demonstrate comprehension of a variety of fictional texts, literary nonfiction, and poetry."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.6",
+              "text": "Read and demonstrate comprehension of a variety of nonfiction texts."
+            }
+          ]
+        },
+        "IN": {
+          "literary": [
+            {
+              "key": "6.RC.2",
+              "text": "Determine how a theme or central idea of a work of literature is conveyed through particular details; provide a detailed, objective summary."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RC.5",
+              "text": "Determine how a central idea of a text is conveyed through particular details; provide an objective summary of the text."
+            }
+          ]
+        },
+        "MN": {
+          "literary": [
+            {
+              "key": "6.1.4.2",
+              "text": "Determine a theme or central idea of a text and analyze its development over the course of the text; summarize."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.1.4.3",
+              "text": "Determine a central idea of an informational text and analyze how it is conveyed through particular details; summarize."
+            }
+          ]
+        },
+        "NE": {
+          "literary": [
+            {
+              "key": "LA.6.RP.1",
+              "text": "Determine the implied or explicit theme of a literary text and how it develops over the course of a text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "LA.6.RI.1",
+              "text": "Determine the implied or explicit central idea of an informational text and how it develops over the course of a text."
+            }
+          ]
+        },
+        "OK": {
+          "literary": [
+            {
+              "key": "6.3.R.5",
+              "text": "Identify literary elements and devices that impact a text's theme."
+            },
+            {
+              "key": "6.2.R.1",
+              "text": "Summarize alphabetic and/or multimodal texts, including main idea, to demonstrate comprehension."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.2.R.1",
+              "text": "Summarize alphabetic and/or multimodal texts, including main idea, to demonstrate comprehension."
+            }
+          ]
+        },
+        "SC": {
+          "literary": [
+            {
+              "key": "ELA.6.AOR.2.1",
+              "text": "Analyze how key details contribute to the development of a theme(s) over the course of a literary text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "ELA.6.AOR.2.2",
+              "text": "Analyze how supporting details contribute to the development of a central idea(s) over the course of an informational text."
+            }
+          ]
+        },
+        "AL": {
+          "literary": [
+            {
+              "key": "3",
+              "text": "Analyze literary and informational texts, using textual evidence to support understanding and determine theme."
+            }
+          ],
+          "informational": [
+            {
+              "key": "3",
+              "text": "Analyze literary and informational texts, using textual evidence to support understanding and determine theme."
+            }
+          ]
+        },
+        "MO": {
+          "literary": [
+            {
+              "key": "6.RL.A.2",
+              "text": "Determine a theme or central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.A.2",
+              "text": "Determine a central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments."
+            }
+          ]
+        },
+        "NY": {
+          "literary": [
+            {
+              "key": "6R2",
+              "text": "Determine a theme or central idea and how it is conveyed through details; summarize a text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6R2",
+              "text": "Determine a theme or central idea and how it is conveyed through details; summarize a text."
+            }
+          ]
+        },
+        "NC": {
+          "literary": [
+            {
+              "key": "RL.6.2",
+              "text": "Determine a theme of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments."
+            }
+          ],
+          "informational": [
+            {
+              "key": "RI.6.2",
+              "text": "Determine a central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments."
+            }
+          ]
+        },
+        "SD": {
+          "literary": [
+            {
+              "key": "6.RL.2",
+              "text": "Determine a theme or central idea(s) of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.2",
+              "text": "Determine a central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments."
+            }
+          ]
+        }
+      }
+    },
+    "MOJO.ANALYZE-ARGUMENT": {
+      "description": "Trace, evaluate, or critique an argument's claims, reasons, evidence, and logical soundness. At grade 6, trace and evaluate the argument and specific claims, distinguishing claims that are supported by reasons and evidence from claims that are not.",
+      "states": {
+        "CC": {
+          "literary": [
+            {
+              "key": "RI.6.8",
+              "text": "Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not."
+            }
+          ],
+          "informational": [
+            {
+              "key": "RI.6.8",
+              "text": "Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not."
+            }
+          ]
+        },
+        "TN": {
+          "literary": [
+            {
+              "key": "6.RI.IKI.8",
+              "text": "Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.IKI.8",
+              "text": "Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not."
+            }
+          ]
+        },
+        "TX": {
+          "literary": [
+            {
+              "key": "6.8.E",
+              "text": "Analyze characteristics and structures of argumentative text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.8.E",
+              "text": "Analyze characteristics and structures of argumentative text."
+            }
+          ]
+        },
+        "FL": {
+          "literary": [
+            {
+              "key": "ELA.6.R.2.4",
+              "text": "Track the development of an argument, identifying the types of reasoning used."
+            },
+            {
+              "key": "ELA.6.R.3.4",
+              "text": "Identify rhetorical appeals in a text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "ELA.6.R.2.4",
+              "text": "Track the development of an argument, identifying the types of reasoning used."
+            },
+            {
+              "key": "ELA.6.R.3.4",
+              "text": "Identify rhetorical appeals in a text."
+            }
+          ]
+        },
+        "VA": {
+          "literary": [],
+          "informational": [
+            {
+              "key": "6.6",
+              "text": "Read and demonstrate comprehension of a variety of nonfiction texts."
+            }
+          ]
+        },
+        "IN": {
+          "literary": [
+            {
+              "key": "6.RC.8",
+              "text": "Trace and evaluate arguments and specific claims in a text, distinguishing supported claims from unsupported ones."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RC.8",
+              "text": "Trace and evaluate arguments and specific claims in a text, distinguishing supported claims from unsupported ones."
+            }
+          ]
+        },
+        "MN": {
+          "literary": [],
+          "informational": []
+        },
+        "NE": {
+          "literary": [
+            {
+              "key": "LA.6.RI.6",
+              "text": "Analyze the development of an argument and identify the type(s) of reasoning used to support the argument."
+            }
+          ],
+          "informational": [
+            {
+              "key": "LA.6.RI.6",
+              "text": "Analyze the development of an argument and identify the type(s) of reasoning used to support the argument."
+            }
+          ]
+        },
+        "OK": {
+          "literary": [
+            {
+              "key": "6.3.R.6",
+              "text": "Categorize facts included in an argument as for or against an issue."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.3.R.6",
+              "text": "Categorize facts included in an argument as for or against an issue."
+            }
+          ]
+        },
+        "SC": {
+          "literary": [
+            {
+              "key": "ELA.6.AOR.5.3",
+              "text": "Trace the development of an author's argument while identifying the types of reasoning used and/or the rhetorical appeal of ethos, pathos, or logos in an informational text."
+            }
+          ],
+          "informational": [
+            {
+              "key": "ELA.6.AOR.5.3",
+              "text": "Trace the development of an author's argument while identifying the types of reasoning used and/or the rhetorical appeal of ethos, pathos, or logos in an informational text."
+            }
+          ]
+        },
+        "AL": {
+          "literary": [
+            {
+              "key": "6",
+              "text": "Evaluate the development of central and supporting ideas in recorded or live presentations by examining the speaker's rhetorical strategies."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6",
+              "text": "Evaluate the development of central and supporting ideas in recorded or live presentations by examining the speaker's rhetorical strategies."
+            }
+          ]
+        },
+        "MO": {
+          "literary": [
+            {
+              "key": "6.RI.C.8",
+              "text": "Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.C.8",
+              "text": "Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not."
+            }
+          ]
+        },
+        "NY": {
+          "literary": [
+            {
+              "key": "6R8",
+              "text": "In informational texts, trace and evaluate the argument and specific claims, distinguishing supported from unsupported claims."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6R8",
+              "text": "In informational texts, trace and evaluate the argument and specific claims, distinguishing supported from unsupported claims."
+            }
+          ]
+        },
+        "NC": {
+          "literary": [
+            {
+              "key": "RI.6.8",
+              "text": "Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not."
+            }
+          ],
+          "informational": [
+            {
+              "key": "RI.6.8",
+              "text": "Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not."
+            }
+          ]
+        },
+        "SD": {
+          "literary": [
+            {
+              "key": "6.RI.8",
+              "text": "Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.8",
+              "text": "Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not."
+            }
+          ]
+        }
+      }
+    },
+    "MOJO.COMPARE-CONTRAST": {
+      "description": "Compare or contrast elements across texts, within a text, or between text versions — including characters, themes, arguments, or perspectives.",
+      "states": {
+        "CC": {
+          "literary": [
+            {
+              "key": "RL.6.9",
+              "text": "Compare and contrast texts in different forms or genres (e.g., stories and poems; historical novels and fantasy stories) in terms of their approaches to similar themes and topics."
+            }
+          ],
+          "informational": [
+            {
+              "key": "RI.6.9",
+              "text": "Compare and contrast one author's presentation of events with that of another (e.g., a memoir written by and a biography on the same person)."
+            }
+          ]
+        },
+        "TN": {
+          "literary": [
+            {
+              "key": "6.RL.IKI.9",
+              "text": "Compare and contrast texts in different forms or genres in terms of their approaches to similar themes and topics."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.IKI.9",
+              "text": "Compare and contrast one author's presentation of events with that of another."
+            }
+          ]
+        },
+        "TX": {
+          "literary": [
+            {
+              "key": "6.6.B",
+              "text": "Write responses demonstrating understanding of texts, including comparing sources."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.6.B",
+              "text": "Write responses demonstrating understanding of texts, including comparing sources."
+            }
+          ]
+        },
+        "FL": {
+          "literary": [
+            {
+              "key": "ELA.6.R.3.3",
+              "text": "Compare and contrast how authors from different time periods address the same or related topics."
+            }
+          ],
+          "informational": [
+            {
+              "key": "ELA.6.R.3.3",
+              "text": "Compare and contrast how authors from different time periods address the same or related topics."
+            }
+          ]
+        },
+        "VA": {
+          "literary": [
+            {
+              "key": "6.5",
+              "text": "Read and demonstrate comprehension of a variety of fictional texts, literary nonfiction, and poetry."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.6",
+              "text": "Read and demonstrate comprehension of a variety of nonfiction texts."
+            }
+          ]
+        },
+        "IN": {
+          "literary": [
+            {
+              "key": "6.RC.4",
+              "text": "Compare and contrast works of literature in different forms or genres regarding their approaches to similar themes and topics."
+            }
+          ],
+          "informational": []
+        },
+        "MN": {
+          "literary": [
+            {
+              "key": "6.1.6.1",
+              "text": "Compare and contrast texts in different forms or genres in terms of their approaches to similar themes and topics."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.1.6.2",
+              "text": "Compare and contrast one author's presentation of events with that of another."
+            }
+          ]
+        },
+        "NE": {
+          "literary": [
+            {
+              "key": "LA.6.RP.5",
+              "text": "Compare and contrast texts in different forms or genres and their treatment of similar themes and topics."
+            }
+          ],
+          "informational": [
+            {
+              "key": "LA.6.RI.5",
+              "text": "Compare and contrast one author's presentation of information with that of another."
+            },
+            {
+              "key": "LA.6.RI.7",
+              "text": "Compare and contrast regional, national, and/or multicultural perspectives within and across informational texts."
+            }
+          ]
+        },
+        "OK": {
+          "literary": [
+            {
+              "key": "6.2.R.2",
+              "text": "Analyze details in fiction, poetry, and nonfiction texts to distinguish genres."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.2.R.2",
+              "text": "Analyze details in fiction, poetry, and nonfiction texts to distinguish genres."
+            },
+            {
+              "key": "6.3.R.1",
+              "text": "Compare and contrast stated or implied purposes of authors writing on the same topic from a variety of historical, cultural, ethnic, and global perspectives."
+            }
+          ]
+        },
+        "SC": {
+          "literary": [],
+          "informational": [
+            {
+              "key": "ELA.6.AOR.4.1",
+              "text": "Analyze a primary and secondary account of the same event or topic and how the different perspectives impact the content and style of a text."
+            }
+          ]
+        },
+        "AL": {
+          "literary": [
+            {
+              "key": "5",
+              "text": "Compare and contrast the perspectives in a variety of fiction, nonfiction, informational, digital, and multimodal texts produced from diverse historical, cultural, and global viewpoints."
+            }
+          ],
+          "informational": [
+            {
+              "key": "5",
+              "text": "Compare and contrast the perspectives in a variety of fiction, nonfiction, informational, digital, and multimodal texts produced from diverse historical, cultural, and global viewpoints."
+            }
+          ]
+        },
+        "MO": {
+          "literary": [
+            {
+              "key": "6.RL.C.9",
+              "text": "Compare and contrast texts in different forms or genres in terms of their approaches to similar themes and topics."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.C.9",
+              "text": "Compare and contrast one author's presentation of events with that of another."
+            }
+          ]
+        },
+        "NY": {
+          "literary": [
+            {
+              "key": "6R9",
+              "text": "Compare and contrast texts in different forms or genres in terms of their approaches to similar themes and topics."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6R9",
+              "text": "Compare and contrast texts in different forms or genres in terms of their approaches to similar themes and topics."
+            }
+          ]
+        },
+        "NC": {
+          "literary": [
+            {
+              "key": "RL.6.9",
+              "text": "Compare and contrast texts in different forms or genres (e.g., stories and poems; historical novels and fantasy stories) in terms of their approaches to similar themes and topics."
+            }
+          ],
+          "informational": [
+            {
+              "key": "RI.6.9",
+              "text": "Compare and contrast one author's presentation of events with that of another (e.g., a memoir written by and a biography on the same person)."
+            }
+          ]
+        },
+        "SD": {
+          "literary": [
+            {
+              "key": "6.RL.9",
+              "text": "Compare and contrast texts in different forms or genres (e.g., stories and poems; historical novels and fantasy stories) in terms of their approaches to similar themes and topics."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.RI.9",
+              "text": "Compare and contrast one author's presentation of events with that of another (e.g., a memoir written by and a biography on the same person)."
+            }
+          ]
+        }
+      }
+    },
+    "MOJO.WRITE-ARGUMENT": {
+      "description": "Construct a claim, select evidence, and explain how evidence supports the claim. Includes claim questions, short writes, and constructed responses.",
+      "states": {
+        "CC": {
+          "literary": [
+            {
+              "key": "W.6.1",
+              "text": "Write arguments to support claims with clear reasons and relevant evidence."
+            },
+            {
+              "key": "W.6.2",
+              "text": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content."
+            }
+          ],
+          "informational": [
+            {
+              "key": "W.6.1",
+              "text": "Write arguments to support claims with clear reasons and relevant evidence."
+            },
+            {
+              "key": "W.6.2",
+              "text": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content."
+            }
+          ]
+        },
+        "TN": {
+          "literary": [
+            {
+              "key": "6.W.TTP.1",
+              "text": "Write arguments to support claims with clear reasons and relevant evidence."
+            },
+            {
+              "key": "6.W.TTP.2",
+              "text": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.W.TTP.1",
+              "text": "Write arguments to support claims with clear reasons and relevant evidence."
+            },
+            {
+              "key": "6.W.TTP.2",
+              "text": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information."
+            }
+          ]
+        },
+        "TX": {
+          "literary": [
+            {
+              "key": "6.11.C",
+              "text": "Compose multi-paragraph argumentative texts using genre characteristics and craft."
+            },
+            {
+              "key": "6.11.B",
+              "text": "Compose informational texts including multi-paragraph essays conveying information."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.11.C",
+              "text": "Compose multi-paragraph argumentative texts using genre characteristics and craft."
+            },
+            {
+              "key": "6.11.B",
+              "text": "Compose informational texts including multi-paragraph essays conveying information."
+            }
+          ]
+        },
+        "FL": {
+          "literary": [
+            {
+              "key": "ELA.6.C.1.3",
+              "text": "Write and support a claim using logical reasoning, relevant evidence from sources, elaboration, and a logical organizational structure with varied transitions."
+            },
+            {
+              "key": "ELA.6.C.1.4",
+              "text": "Write expository texts to explain and/or analyze information from multiple sources, using a logical organizational structure, relevant elaboration, and varied transitions."
+            }
+          ],
+          "informational": [
+            {
+              "key": "ELA.6.C.1.3",
+              "text": "Write and support a claim using logical reasoning, relevant evidence from sources, elaboration, and a logical organizational structure with varied transitions."
+            },
+            {
+              "key": "ELA.6.C.1.4",
+              "text": "Write expository texts to explain and/or analyze information from multiple sources, using a logical organizational structure, relevant elaboration, and varied transitions."
+            }
+          ]
+        },
+        "VA": {
+          "literary": [
+            {
+              "key": "6.7",
+              "text": "Write in a variety of forms to include narrative, expository, persuasive, and reflective with an emphasis on narrative and reflective writing."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.7",
+              "text": "Write in a variety of forms to include narrative, expository, persuasive, and reflective with an emphasis on narrative and reflective writing."
+            }
+          ]
+        },
+        "IN": {
+          "literary": [
+            {
+              "key": "6.W.1",
+              "text": "Write arguments in various forms that introduce claims, use organizational structures, support claims with evidence, establish appropriate style and tone, use transitions, and provide concluding statements."
+            },
+            {
+              "key": "6.W.2",
+              "text": "Write informative compositions that introduce topics, develop ideas with relevant facts and details, use transitions, incorporate formatting and graphics, and choose precise vocabulary."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.W.1",
+              "text": "Write arguments in various forms that introduce claims, use organizational structures, support claims with evidence, establish appropriate style and tone, use transitions, and provide concluding statements."
+            },
+            {
+              "key": "6.W.2",
+              "text": "Write informative compositions that introduce topics, develop ideas with relevant facts and details, use transitions, incorporate formatting and graphics, and choose precise vocabulary."
+            }
+          ]
+        },
+        "MN": {
+          "literary": [
+            {
+              "key": "6.2.4.1",
+              "text": "Write to argue, articulating both an argument and a counter-argument."
+            },
+            {
+              "key": "6.2.5.1",
+              "text": "Write to inform or explain, introducing diverse perspectives."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.2.4.1",
+              "text": "Write to argue, articulating both an argument and a counter-argument."
+            },
+            {
+              "key": "6.2.5.1",
+              "text": "Write to inform or explain, introducing diverse perspectives."
+            }
+          ]
+        },
+        "NE": {
+          "literary": [
+            {
+              "key": "LA.6.W.4",
+              "text": "Write arguments that explain a perspective with supporting reasons and evidence."
+            },
+            {
+              "key": "LA.6.W.5",
+              "text": "Write informative/explanatory pieces to examine a topic or text and clearly convey ideas and information."
+            }
+          ],
+          "informational": [
+            {
+              "key": "LA.6.W.4",
+              "text": "Write arguments that explain a perspective with supporting reasons and evidence."
+            },
+            {
+              "key": "LA.6.W.5",
+              "text": "Write informative/explanatory pieces to examine a topic or text and clearly convey ideas and information."
+            }
+          ]
+        },
+        "OK": {
+          "literary": [
+            {
+              "key": "6.3.W.3",
+              "text": "Compose argumentative essays that introduce precise claims, organize claims and evidence logically, and provide relevant evidence from credible sources."
+            },
+            {
+              "key": "6.3.W.2",
+              "text": "Compose informative essays or reports that objectively introduce and develop topics, incorporate evidence, maintain organized structure."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.3.W.3",
+              "text": "Compose argumentative essays that introduce precise claims, organize claims and evidence logically, and provide relevant evidence from credible sources."
+            },
+            {
+              "key": "6.3.W.2",
+              "text": "Compose informative essays or reports that objectively introduce and develop topics, incorporate evidence, maintain organized structure."
+            }
+          ]
+        },
+        "SC": {
+          "literary": [
+            {
+              "key": "ELA.6.C.1.1",
+              "text": "Write arguments to support a claim with clear reasons and relevant evidence, acknowledging an alternative perspective, with organizational structure, transitions, and concluding statement."
+            },
+            {
+              "key": "ELA.6.C.2.1",
+              "text": "Write informative texts to examine a topic and analyze information from one or more sources with relevant facts, definitions, details, quotes, transitions, precise language, and conclusions."
+            }
+          ],
+          "informational": [
+            {
+              "key": "ELA.6.C.1.1",
+              "text": "Write arguments to support a claim with clear reasons and relevant evidence, acknowledging an alternative perspective, with organizational structure, transitions, and concluding statement."
+            },
+            {
+              "key": "ELA.6.C.2.1",
+              "text": "Write informative texts to examine a topic and analyze information from one or more sources with relevant facts, definitions, details, quotes, transitions, precise language, and conclusions."
+            }
+          ]
+        },
+        "AL": {
+          "literary": [
+            {
+              "key": "7",
+              "text": "Produce clear, coherent narrative, argument, and informative/explanatory writing."
+            }
+          ],
+          "informational": [
+            {
+              "key": "7",
+              "text": "Produce clear, coherent narrative, argument, and informative/explanatory writing."
+            }
+          ]
+        },
+        "MO": {
+          "literary": [
+            {
+              "key": "6.W.A.1",
+              "text": "Write arguments to support claims with clear reasons and relevant evidence."
+            },
+            {
+              "key": "6.W.A.2",
+              "text": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.W.A.1",
+              "text": "Write arguments to support claims with clear reasons and relevant evidence."
+            },
+            {
+              "key": "6.W.A.2",
+              "text": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content."
+            }
+          ]
+        },
+        "NY": {
+          "literary": [
+            {
+              "key": "6W1",
+              "text": "Write arguments to support claims with clear reasons and relevant evidence."
+            },
+            {
+              "key": "6W2",
+              "text": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6W1",
+              "text": "Write arguments to support claims with clear reasons and relevant evidence."
+            },
+            {
+              "key": "6W2",
+              "text": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content."
+            }
+          ]
+        },
+        "NC": {
+          "literary": [
+            {
+              "key": "W.1",
+              "text": "Write arguments to support claims with clear reasons and relevant evidence."
+            },
+            {
+              "key": "W.2",
+              "text": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content."
+            }
+          ],
+          "informational": [
+            {
+              "key": "W.1",
+              "text": "Write arguments to support claims with clear reasons and relevant evidence."
+            },
+            {
+              "key": "W.2",
+              "text": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content."
+            }
+          ]
+        },
+        "SD": {
+          "literary": [
+            {
+              "key": "6.W.1",
+              "text": "Write arguments to support claims with clear reasons and relevant evidence."
+            },
+            {
+              "key": "6.W.2",
+              "text": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.W.1",
+              "text": "Write arguments to support claims with clear reasons and relevant evidence."
+            },
+            {
+              "key": "6.W.2",
+              "text": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content."
+            }
+          ]
+        }
+      }
+    },
+    "MOJO.SYNTHESIZE": {
+      "description": "Draw together multiple pieces of evidence, multiple text sections, or multiple analytical threads to form a comprehensive understanding. Often the culminating driving question or extension question.",
+      "states": {
+        "CC": {
+          "literary": [],
+          "informational": []
+        },
+        "TN": {
+          "literary": [],
+          "informational": []
+        },
+        "TX": {
+          "literary": [
+            {
+              "key": "6.5.H",
+              "text": "Synthesize information to create new understanding."
+            }
+          ],
+          "informational": [
+            {
+              "key": "6.5.H",
+              "text": "Synthesize information to create new understanding."
+            }
+          ]
+        },
+        "FL": {
+          "literary": [],
+          "informational": []
+        },
+        "VA": {
+          "literary": [],
+          "informational": []
+        },
+        "IN": {
+          "literary": [],
+          "informational": []
+        },
+        "MN": {
+          "literary": [],
+          "informational": []
+        },
+        "NE": {
+          "literary": [],
+          "informational": []
+        },
+        "OK": {
+          "literary": [],
+          "informational": []
+        },
+        "SC": {
+          "literary": [],
+          "informational": []
+        },
+        "AL": {
+          "literary": [],
+          "informational": []
+        },
+        "MO": {
+          "literary": [],
+          "informational": []
+        },
+        "NY": {
+          "literary": [],
+          "informational": []
+        },
+        "NC": {
+          "literary": [],
+          "informational": []
+        },
+        "SD": {
+          "literary": [],
+          "informational": []
+        }
+      }
+    }
+  }
+}

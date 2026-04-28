@@ -1,0 +1,87 @@
+{
+  "$schema": "https://biomejs.dev/schemas/1.9.4/schema.json",
+  "vcs": {
+    "enabled": false,
+    "clientKind": "git",
+    "useIgnoreFile": false
+  },
+  "files": {
+    "ignoreUnknown": false,
+    "ignore": []
+  },
+  "formatter": {
+    "enabled": true,
+    "indentStyle": "space",
+    "formatWithErrors": true
+  },
+  "organizeImports": {
+    "enabled": true
+  },
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "a11y": {
+        "useSemanticElements": "off",
+        "useGenericFontNames": "off",
+        "useKeyWithClickEvents": "off",
+        "useValidAnchor": "off",
+        "useValidAriaProps": "off",
+        "noLabelWithoutControl": "off",
+        "useMediaCaption": "off"
+      },
+      "complexity": {
+        "noStaticOnlyClass": "off",
+        "noForEach": "off",
+        "useOptionalChain": "off",
+        "useLiteralKeys": "off",
+        "noThisInStatic": "off",
+        "noBannedTypes": "off",
+        "noUselessTernary": "off"
+      },
+      "correctness": {
+        "noChildrenProp": "off",
+        "noUnusedImports": "off",
+        "noUnnecessaryContinue": "off",
+        "noConstantCondition": "off",
+        "noInnerDeclarations": "off",
+        "noSwitchDeclarations": "off",
+        "useExhaustiveDependencies": "off"
+      },
+      "suspicious": {
+        "noArrayIndexKey": "off",
+        "noAssignInExpressions": "off",
+        "noDoubleEquals": "off",
+        "noExplicitAny": "off",
+        "noGlobalAssign": "off",
+        "noGlobalIsNan": "off",
+        "noImplicitAnyLet": "off",
+        "noPrototypeBuiltins": "off",
+        "noControlCharactersInRegex": "off"
+      },
+      "performance": {
+        "noDelete": "off"
+      },
+      "style": {
+        "noArguments": "off",
+        "noNonNullAssertion": "off",
+        "noParameterAssign": "off",
+        "noUnusedTemplateLiteral": "off",
+        "noUselessElse": "off",
+        "noVar": "off",
+        "useConst": "off",
+        "useExponentiationOperator": "off",
+        "useSelfClosingElements": "off",
+        "useSingleVarDeclarator": "off",
+        "useTemplate": "off"
+      },
+      "security": {
+        "noDangerouslySetInnerHtml": "warn"
+      }
+    }
+  },
+  "javascript": {
+    "formatter": {
+      "quoteStyle": "double"
+    }
+  }
+}

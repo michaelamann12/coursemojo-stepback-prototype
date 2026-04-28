@@ -1,0 +1,117 @@
+@import url("./font.css");
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  color: var(--grey-700);
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 60px;
+}
+
+h2 {
+  font-size: 36px;
+  line-height: 54px;
+}
+
+h3 {
+  font-size: 32px;
+  line-height: 48px;
+}
+
+h4 {
+  font-size: 28px;
+  line-height: 42px;
+}
+
+h5 {
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.align-center {
+  text-align: center;
+}
+.align-justify {
+  text-align: justify;
+}
+.align-left {
+  text-align: left;
+}
+.align-right {
+  text-align: right;
+}
+
+.size-small {
+  font-size: 0.875rem; /* ~14px */
+}
+
+.size-large {
+  font-size: 1.25rem; /* ~20px */
+}
+
+.size-huge {
+  font-size: 1.5rem; /* ~24px */
+}
+.subtitle-1 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+}
+
+.subtitle-1-h1 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  margin: 0px;
+  font-family: "Be Vietnam Pro", sans-serif;
+  color: var(--grey-600);
+  text-align: left;
+}
+
+.subtitle-2 {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+body,
+textarea,
+button {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  font-family: "Be Vietnam Pro", sans-serif;
+  color: var(--grey-600);
+  text-align: left;
+}
+
+.caption {
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.sr-only {
+  font-size: 0px;
+  line-height: 0px;
+  height: 0px;
+  position: fixed;
+  pointer-events: none;
+}
+
+/** -accessibility- */
+.icon-button.close-modal:focus-visible {
+  outline: 2px solid #007bff;
+  outline-offset: 2px;
+}
+
+.input-container #newMessage::placeholder {
+  color: #505154;
+}

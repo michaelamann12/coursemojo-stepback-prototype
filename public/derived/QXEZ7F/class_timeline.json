@@ -1,0 +1,777 @@
+[
+  {
+    "activity_id": "c7ad86bf-1218-4909-95b9-af0d2e5ea121",
+    "unit": "1",
+    "lesson": "1",
+    "text_title": "Eleven",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which of the following statements about the narrator is best supported by the following passage (paragraph 3)?\n\n“Because the way you grow old is kind of like an onion or like the rings inside a tree trunk or like my little wooden dolls that fit one inside the other, each year inside the next one. That's how being eleven years old is.”",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Part A: How does Rachel feel about the red sweater that is placed on her desk?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "Highlight a sentence or phrase from the text that supports your answer to Part A.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Re-read paragraphs 18-19. How does Rachel physically react when she finally puts on the sweater?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Part A: Which of the following abilities does the narrator mainly believe older people have that younger people don't?",
+        "mojo_standard": "MOJO.ANALYZE-CRAFT"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 0,
+        "step": 5,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "Part B: Highlight the evidence from the text that best supports your answer to Part A.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": " Part A: What is the main conflict Rachel faces in the story?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 8",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Part B: Which evidence from the text BEST shows how Rachel responds to this conflict?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 15,
+      "students_with_sessions": 14,
+      "students_without_sessions": 1,
+      "students_with_responses": 14,
+      "students_reached_target_task": 14,
+      "students_scored_on_target_task": 7
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 36,
+        "tier": 2
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 22,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 19,
+        "tier": 3
+      },
+      {
+        "blocker": "task",
+        "count": 14,
+        "tier": 1
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 3,
+        "tier": 1
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CRAFT": 2,
+      "MOJO.ANALYZE-CHARACTER": 2,
+      "MOJO.CITE-EVIDENCE": 2,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_1",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_3",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_4",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_5",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_6",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": true
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 1
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_1",
+            "USER_6"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": true
+        },
+        "conferences_tool": {
+          "used": true,
+          "student_groups": [
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_4",
+                "USER_5"
+              ]
+            },
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_1",
+                "USER_3"
+              ]
+            }
+          ]
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "3fdf797c-0cac-451d-ac1c-a2a0b56e4734",
+    "unit": "1",
+    "lesson": "2",
+    "text_title": "Eleven",
+    "activity_type": "language",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "Highlight a sentence from paragraph 8 that describes the red sweater.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What does this description of the sweater reveal about why Rachel doesn't want to be associated with it?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What claim does Sylvia make about the sweater in paragraph 9?",
+        "mojo_standard": "MOJO.ANALYZE-ARGUMENT"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How does Rachel react when Sylvia makes this claim?",
+        "mojo_standard": "MOJO.ANALYZE-ARGUMENT"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_role": "standard",
+        "question_type": "highlight-as-answer",
+        "question": "Highlight a sentence from paragraphs 18-19 that describes Rachel's physical reaction to wearing the sweater.",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 0,
+        "step": 5,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What does this physical reaction reveal about Rachel's emotions in this moment?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "highlight-as-answer",
+        "question": "Highlight a phrase from paragraphs 8-11 that shows what Rachel believes motivated Sylvia to identify her as the sweater's owner.",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 8",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "quickwrite-v-6",
+        "question": "How does Rachel feel when Sylvia says the sweater belongs to her, and why does she feel this way? \n\nRespond to this question in the form of a paragraph that includes a claim, evidence from paragraphs 8-11, and explanation.",
+        "mojo_standard": "MOJO.WRITE-ARGUMENT"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 15,
+      "students_with_sessions": 14,
+      "students_without_sessions": 1,
+      "students_with_responses": 14,
+      "students_reached_target_task": 10,
+      "students_scored_on_target_task": 10
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "vocabulary",
+        "count": 32,
+        "tier": 1
+      },
+      {
+        "blocker": "syntax",
+        "count": 24,
+        "tier": 1
+      },
+      {
+        "blocker": "comprehend-text",
+        "count": 16,
+        "tier": 2
+      },
+      {
+        "blocker": "task",
+        "count": 8,
+        "tier": 1
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 6,
+        "tier": 3
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.CITE-EVIDENCE": 2,
+      "MOJO.ANALYZE-CHARACTER": 2,
+      "MOJO.ANALYZE-ARGUMENT": 2,
+      "MOJO.SYNTHESIZE": 1,
+      "MOJO.WRITE-ARGUMENT": 1
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_1",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_3",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_4",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_5",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_6",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": true
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": true,
+          "pause_count": 2
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_3",
+            "USER_5",
+            "USER_6",
+            "USER_1"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": true
+        },
+        "conferences_tool": {
+          "used": true,
+          "student_groups": [
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_5",
+                "USER_3"
+              ]
+            },
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_4",
+                "USER_6"
+              ]
+            }
+          ]
+        },
+        "post_activity_summary": {
+          "used": true
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "7a452026-5ea7-46ff-9469-b24b077ba157",
+    "unit": "1",
+    "lesson": "3",
+    "text_title": "Eleven",
+    "activity_type": "language",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What object does Rachel compare the sweater to when she describes how it's hanging?",
+        "mojo_standard": "MOJO.COMPARE-CONTRAST"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Re-read the following line from paragraph 14:\n\n“Except when math period ends Mrs. Price says loud and in front of everybody, ‘Now, Rachel, that's enough,’ because she sees I've shoved the red sweater to the tippy-tip corner of my desk and it's hanging over the edge like a waterfall, but I don't care.”\n\nWhat specific characteristic do waterfalls and the hanging sweater share that makes this comparison effective?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "In paragraph 19, Rachel says she's “crying like I'm three in front of everybody.” This comparison is an example of:",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "How does comparing her crying to a specific age help readers understand the intensity of Rachel's reaction?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "How does the figurative language in paragraph 14 help readers understand Rachel's reaction to the sweater?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "How does the figurative language in paragraph 19 help readers visualize Rachel's behavior?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 15,
+      "students_with_sessions": 14,
+      "students_without_sessions": 1,
+      "students_with_responses": 14,
+      "students_reached_target_task": 13,
+      "students_scored_on_target_task": 12
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "syntax",
+        "count": 27,
+        "tier": 1
+      },
+      {
+        "blocker": "vocabulary",
+        "count": 26,
+        "tier": 1
+      },
+      {
+        "blocker": "comprehend-text",
+        "count": 21,
+        "tier": 2
+      },
+      {
+        "blocker": "task",
+        "count": 19,
+        "tier": 1
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 3,
+        "tier": 3
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.COMPARE-CONTRAST": 1,
+      "MOJO.ANALYZE-CHARACTER": 3,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_1",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_3",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_4",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_5",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_6",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": false
+        },
+        "add_time": {
+          "used": true,
+          "times_used": 2
+        },
+        "pause": {
+          "used": false,
+          "pause_count": 0
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_6",
+            "USER_1",
+            "USER_4",
+            "USER_3"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": false,
+          "student_groups": []
+        },
+        "post_activity_summary": {
+          "used": false
+        }
+      }
+    }
+  },
+  {
+    "activity_id": "b3fb3700-d637-4bde-a384-b8724ced7ec7",
+    "unit": "1",
+    "lesson": "7",
+    "text_title": "The Mighty Miss Malone",
+    "activity_type": "literal_comp",
+    "grade_level": 6,
+    "questions_map": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "Why does Mrs. Scott, Deza's math teacher, talk to her after class?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which of the following inferences about Deza's character is best supported by the text?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_role": "standard",
+        "question_type": "mpchoice",
+        "question": "Which sentence from the text most strongly supports the answer to the previous question?",
+        "mojo_standard": "MOJO.CITE-EVIDENCE"
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_role": "standard",
+        "question_type": "tdq-v-2",
+        "question": "What inference can be made about Flint based on Deza's interactions at school?",
+        "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+      },
+      {
+        "question_label": "Question 5",
+        "section": 1,
+        "step": 0,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which statement best expresses the central idea of this excerpt from “The Mighty Miss Malone”?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 1,
+        "question_role": "target_task",
+        "question_type": "mpchoice-target-task",
+        "question": "Which detail from the text best supports the answer to the previous question?",
+        "mojo_standard": "MOJO.SYNTHESIZE"
+      }
+    ],
+    "completion_funnel": {
+      "students_enrolled": 15,
+      "students_with_sessions": 15,
+      "students_without_sessions": 0,
+      "students_with_responses": 15,
+      "students_reached_target_task": 15,
+      "students_scored_on_target_task": 12
+    },
+    "avg_pct_correct_first": 0.0,
+    "avg_pct_correct_scaffolding": 0.0,
+    "avg_pct_never_correct": 100.0,
+    "top_blockers": [
+      {
+        "blocker": "comprehend-text",
+        "count": 32,
+        "tier": 2
+      },
+      {
+        "blocker": "task",
+        "count": 18,
+        "tier": 1
+      },
+      {
+        "blocker": "background-knowledge",
+        "count": 17,
+        "tier": 1
+      },
+      {
+        "blocker": "cite-evidence",
+        "count": 14,
+        "tier": 3
+      },
+      {
+        "blocker": "analyze-character",
+        "count": 14,
+        "tier": 3
+      }
+    ],
+    "standards_assessed": {
+      "MOJO.ANALYZE-CHARACTER": 3,
+      "MOJO.CITE-EVIDENCE": 1,
+      "MOJO.SYNTHESIZE": 2
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_1",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_2",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_3",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_4",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_5",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": {
+          "used": true
+        },
+        "add_time": {
+          "used": false,
+          "times_used": 0
+        },
+        "pause": {
+          "used": false,
+          "pause_count": 0
+        },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": [
+            "USER_2",
+            "USER_4",
+            "USER_3",
+            "USER_1",
+            "USER_5"
+          ]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": {
+          "used": false
+        },
+        "celebrations_tool": {
+          "used": false
+        },
+        "conferences_tool": {
+          "used": true,
+          "student_groups": [
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_4",
+                "USER_1"
+              ]
+            },
+            {
+              "concern_type": "never_correct_target",
+              "student_ids": [
+                "USER_5",
+                "USER_2"
+              ]
+            }
+          ]
+        },
+        "post_activity_summary": {
+          "used": false
+        }
+      }
+    }
+  }
+]

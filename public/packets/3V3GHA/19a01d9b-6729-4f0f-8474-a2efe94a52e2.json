@@ -1,0 +1,1218 @@
+{
+  "activity_data_packet": {
+    "activity_metadata": {
+      "objective": "Students will analyze how the author uses dialogue between Papa and Mama Logan to convey themes about family relationships and responses to conflict in Roll of Thunder, Hear My Cry.",
+      "alignment_long": "This activity replaces the \"Your Turn\" segment of the Roll of Thunder, Hear Me Cry, Theme Skills lesson.",
+      "alignment_short": "Your Turn",
+      "connection_to_end_of_unit_assessment_task": "This activity supports the end-of-unit argumentative essay \"How do relationships shape us?\" by developing students' ability to analyze how authors use specific textual details to reveal themes about relationships. Students practice identifying how dialogue reveals character values and family dynamics, skills they will need when analyzing how relationships between characters in unit texts demonstrate the power of human connections to influence behavior, decisions, and personal growth.",
+      "unit_level_connection": "This activity connects to the essential question \"How do relationships shape us?\" by examining the Logan family's relationship dynamics during a moment of external threat. Students explore how Taylor uses the conversation between Papa and Mama Logan to show that strong family relationships are built on honest communication, shared decision-making, and mutual support during difficult times - directly addressing how family relationships shape individuals' responses to adversity and injustice.",
+      "text_title": "Roll of Thunder, Hear My Cry",
+      "excerpt": "<h5 class=\"ql-align-center\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Excerpt from Chapter 9 of Roll of Thunder, Hear My Cry</strong></h5><p class=\"ql-align-center\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Paragraphs 1-8</strong></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">(1) When supper was ready, I eagerly grabbed the iron bell before Christopher-John or Little Man could claim it, and ran onto the back porch to summon Papa, Mr. Morrison, and Stacey from the fields. As the three of them washed up on the back porch, Mama went to the end of the porch where Papa stood alone. \"What did Mr. Jamison want?\" she asked, her voice barely audible.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">(2) Papa took the towel Mama handed him, but did not reply immediately. I was just inside the kitchen dipping out the butter beans. I moved closer to the window so that I could hear his answer. </span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">(3) \"Don't keep anything from me, David. If there's trouble, I want to know.\"</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">(4) Papa looked down at her. \"Nothing to worry 'bout, honey ....just seems that Thurston Wallace been in town talking 'bout how he's not gonna let a few smart colored folks ruin his business. Says he's gonna put a stop to this shopping in Vicksburg. That's all.\"</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">(5) Mama sighed and stared out across the plowed field to the sloping pasture land. \"I'm feeling scared, David,\" she said.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">(6) Papa put down the towel. \"Not yet, Mary. It's not time to be scared yet. They're just talking.\"</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">(7) Mama turned and faced him. \"And when they stop talking?\"</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">(8) \"Then ...then maybe it'll be time. But right now, pretty lady,\" he said, leading her by the hand toward the kitchen door, \"right now I've got better things to think about.\"</span></p>",
+      "type": "language",
+      "grade_level": 6,
+      "curriculum_provider": "StudySync",
+      "unit_name": "2",
+      "lesson_number": "7",
+      "exit_ticket": [
+        "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "Re-read paragraphs 5-8. Highlight a piece of evidence that best support the theme you selected in the previous question."
+      ],
+      "questions_map": [
+        {
+          "question_label": "Question 1",
+          "section": 0,
+          "step": 0,
+          "question_role": "standard",
+          "question_type": "tdq-v-2",
+          "question": "According to Papa, what is Thurston Wallace threatening to do?",
+          "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+        },
+        {
+          "question_label": "Question 2",
+          "section": 0,
+          "step": 1,
+          "question_role": "standard",
+          "question_type": "mpchoice",
+          "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+          "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+        },
+        {
+          "question_label": "Question 3",
+          "section": 0,
+          "step": 2,
+          "question_role": "standard",
+          "question_type": "mpchoice",
+          "question": "What can the reader infer about Mr. Logan from the lines of dialogue in the excerpt?",
+          "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+        },
+        {
+          "question_label": "Question 4",
+          "section": 0,
+          "step": 3,
+          "question_role": "standard",
+          "question_type": "tdq-v-2",
+          "question": "Look at paragraph 3. What does Mama's direct questioning reveal about what she values in their relationship?",
+          "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+        },
+        {
+          "question_label": "Question 5",
+          "section": 0,
+          "step": 4,
+          "question_role": "standard",
+          "question_type": "tdq-v-2",
+          "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+          "mojo_standard": "MOJO.ANALYZE-CHARACTER"
+        },
+        {
+          "question_label": "Question 6",
+          "section": 1,
+          "step": 0,
+          "question_role": "target_task",
+          "question_type": "mpchoice-target-task",
+          "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+          "mojo_standard": "MOJO.SYNTHESIZE"
+        },
+        {
+          "question_label": "Question 7",
+          "section": 1,
+          "step": 1,
+          "question_role": "target_task",
+          "question_type": "highlight-as-answer",
+          "question": "Re-read paragraphs 5-8. Highlight a piece of evidence that best supports the theme you selected in the previous question.",
+          "mojo_standard": "MOJO.SYNTHESIZE"
+        }
+      ]
+    },
+    "completion_funnel": {
+      "students_enrolled": 20,
+      "students_with_sessions": 16,
+      "students_without_sessions": 4,
+      "students_with_responses": 16,
+      "students_reached_target_task": 15,
+      "students_scored_on_target_task": 13
+    },
+    "per_question_breakdown": [
+      {
+        "question_label": "Question 1",
+        "section": 0,
+        "step": 0,
+        "question_text": "According to Papa, what is Thurston Wallace threatening to do?",
+        "question_role": "standard",
+        "student_count": 0,
+        "pct_correct_first": 0.0,
+        "pct_correct_after_scaffolding": 0.0,
+        "pct_never_correct": 0.0
+      },
+      {
+        "question_label": "Question 2",
+        "section": 0,
+        "step": 1,
+        "question_text": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "question_role": "standard",
+        "student_count": 16,
+        "pct_correct_first": 0.0,
+        "pct_correct_after_scaffolding": 0.0,
+        "pct_never_correct": 100.0
+      },
+      {
+        "question_label": "Question 3",
+        "section": 0,
+        "step": 2,
+        "question_text": "What can the reader infer about Mr. Logan from the lines of dialogue in the excerpt?",
+        "question_role": "standard",
+        "student_count": 0,
+        "pct_correct_first": 0.0,
+        "pct_correct_after_scaffolding": 0.0,
+        "pct_never_correct": 0.0
+      },
+      {
+        "question_label": "Question 4",
+        "section": 0,
+        "step": 3,
+        "question_text": "Look at paragraph 3. What does Mama's direct questioning reveal about what she values in their relationship?",
+        "question_role": "standard",
+        "student_count": 0,
+        "pct_correct_first": 0.0,
+        "pct_correct_after_scaffolding": 0.0,
+        "pct_never_correct": 0.0
+      },
+      {
+        "question_label": "Question 5",
+        "section": 0,
+        "step": 4,
+        "question_text": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "question_role": "standard",
+        "student_count": 16,
+        "pct_correct_first": 0.0,
+        "pct_correct_after_scaffolding": 0.0,
+        "pct_never_correct": 100.0
+      },
+      {
+        "question_label": "Question 6",
+        "section": 1,
+        "step": 0,
+        "question_text": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "question_role": "target_task",
+        "student_count": 15,
+        "pct_correct_first": 0.0,
+        "pct_correct_after_scaffolding": 0.0,
+        "pct_never_correct": 100.0
+      },
+      {
+        "question_label": "Question 7",
+        "section": 1,
+        "step": 1,
+        "question_text": "Re-read paragraphs 5-8. Highlight a piece of evidence that best supports the theme you selected in the previous question.",
+        "question_role": "target_task",
+        "student_count": 0,
+        "pct_correct_first": 0.0,
+        "pct_correct_after_scaffolding": 0.0,
+        "pct_never_correct": 0.0
+      }
+    ],
+    "flagged_responses": {
+      "flagged_response_count": 0,
+      "flagged_student_count": 0
+    },
+    "students_of_concern": [
+      {
+        "student_id": "USER_1",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_3",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_4",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_7",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      },
+      {
+        "student_id": "USER_8",
+        "concern_type": "never_correct_target",
+        "detail": "attempted target task but never reached correct"
+      }
+    ],
+    "overrides": { "override_count": 0, "override_student_count": 0 },
+    "teacher_actions": {
+      "app_usage": {
+        "fast_forward": { "used": true },
+        "add_time": { "used": false, "times_used": 0 },
+        "pause": { "used": true, "pause_count": 1 },
+        "viewed_transcripts": {
+          "used": true,
+          "student_ids": ["USER_4", "USER_7", "USER_1", "USER_8", "USER_3"]
+        }
+      },
+      "tool_usage": {
+        "misconception_tool": { "used": true },
+        "celebrations_tool": { "used": false },
+        "conferences_tool": { "used": false, "student_groups": [] },
+        "post_activity_summary": { "used": true }
+      }
+    }
+  },
+  "transcript_data": {
+    "USER_1": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "Hi is going to put a stop in Vicksburg",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "She wants no secrets between them.and to have trust within the relationship",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "C. Don't go looking for trouble, but don't shy away from defending your rights either.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 1,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_3": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "He is going to put a stop to the shopping in Vicksburg",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "She doesn\u2019t like to be kept away from important conflicts that might affect her family",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 2,
+            "content": "She values honesty",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "C. Don't go looking for trouble, but don't shy away from defending your rights either.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 1,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_4": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "He is threatening to make colored folk pay",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 2,
+            "content": "He is going to put a stop to the shopping in Vicksburg",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "She values honesty in eir relationship",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "C. Don't go looking for trouble, but don't shy away from defending your rights either.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 1,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_5": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "He is going to pt a stop youth shopping in viksburg.",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "It shows that mama cares about papa. She wants to help papa anyway she can.",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_7": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "Wallace said (according to Papa) that he would let \u201ca few smart colored folks\u201d ruin his business.",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 2,
+            "content": "he is gonna put a stop to this shopping in vicksburg",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "She wants to help Papa",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 2,
+            "content": "she is careful",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 3,
+            "content": "She wants  being able to help out",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "D. It's best to ignore problems until they work themselves out or go away on their own.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 0,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_8": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "He is going to put a stop to the shopping in Vicksburg",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "She wants her husband to be honest and not lie to her",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "C. Don't go looking for trouble, but don't shy away from defending your rights either.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 1,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_9": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "He is going to out a stop to the shopping in vicksburg",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "She doesn\u2019t want her husband to hide anything important from her.",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 2,
+            "content": "Honesty and trust",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "C. Don't go looking for trouble, but don't shy away from defending your rights either.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 1,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_10": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "He is going to put a stop to the shopping in vicksburg",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "That they should not be hiding anything from each other",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 2,
+            "content": "It is important to have good communication",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "C. Don't go looking for trouble, but don't shy away from defending your rights either.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 1,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_12": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "He is going to put a stop to the shopping in Vicksburg",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "She nailed honesty and truthfulness.",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "C. Don't go looking for trouble, but don't shy away from defending your rights either.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 1,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_13": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "He is going to put a stop to the shopping in Vicksburg.",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "That Mrs. Logan wants her husband to tell her everything about any trouble.",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 2,
+            "content": "She believes that honesty is important in her marriage.",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "C. Don't go looking for trouble, but don't shy away from defending your rights either.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 1,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_14": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "He is going to put a stop in the shopping in Vicksburg.",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "She values David and wants to keep him from trouble",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 2,
+            "content": "The truth?",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "C. Don't go looking for trouble, but don't shy away from defending your rights either.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 1,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_15": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "Stopping the shopping in vicksburg",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "She wants to know if that Mr Logan is safe",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 2,
+            "content": "To tell everything to each other",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 3,
+            "content": "To tell everything to eachother",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 3,
+            "content": "Can you explain more please",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": null,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "C. Don't go looking for trouble, but don't shy away from defending your rights either.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 1,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_16": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "He is going to put the shopping a stop in vicksburg",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "Mama is wants to be informed about troubles empsasizing",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 2,
+            "content": "Mama believes that she cares about Papa and she wants to help him",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 3,
+            "content": "The specific thing Mama wants to give to Papa in paragraph 3 it says \"Don't keep anything from me, David. If there's trouble, I want to know.\"",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "C. Don't go looking for trouble, but don't shy away from defending your rights either.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 1,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_18": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "Thurston Wallace is going to put a stop in Vicksburg",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "She wants no secrets between them.",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 2,
+            "content": "They can tell each other anything",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 3,
+            "content": "She wants no secrets between them, and to have trust within the relationship.",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "C. Don't go looking for trouble, but don't shy away from defending your rights either.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 1,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_19": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "He is going to put a stop to the shopping in Vicksburg",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "She values the trust and safety in their relationship",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "C. Don't go looking for trouble, but don't shy away from defending your rights either.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 1,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ],
+    "USER_20": [
+      {
+        "question_label": "Question 2",
+        "question": "What can the reader infer about Mrs. Logan from the lines of dialogue in the excerpt?",
+        "section": 0,
+        "step": 1,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "He is going to put a stop to shopping in Vicksburg",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 3,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 5",
+        "question": "Look closely at paragraphs 6-8. What does Papa's response to Mama's fears reveal about his values or beliefs?",
+        "section": 0,
+        "step": 4,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "That she doesnt want her husband to keepany secrets if there in trouble",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 2,
+            "content": "To tell each other everything",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          },
+          {
+            "attempt_num": 3,
+            "content": "To tell each other everything. And to not keep secrets",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 2,
+            "points_possible": 3,
+            "canonical_blocker": null
+          }
+        ]
+      },
+      {
+        "question_label": "Question 6",
+        "question": "What theme can readers infer from the dialogue between Mr. and Mrs. Logan?",
+        "section": 1,
+        "step": 0,
+        "responses": [
+          {
+            "attempt_num": 1,
+            "content": "B. When a person feels fear, he or she should back down from a conflict.\n",
+            "bucket_label": null,
+            "bucket_rationale": null,
+            "point_value": 0,
+            "points_possible": 1,
+            "canonical_blocker": null
+          }
+        ]
+      }
+    ]
+  }
+}

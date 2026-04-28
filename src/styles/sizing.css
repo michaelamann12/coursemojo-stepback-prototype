@@ -1,0 +1,17 @@
+:root {
+  --z: 0px;
+  --xxs: 4px;
+  --xs: 8px;
+  --s: 12px;
+  --m: 16px;
+  --l: 20px;
+  --xl: 24px;
+  --xl-1: 28px;
+  --xl-2: 32px;
+  --xl-3: 36px;
+  --xl-4: 40px;
+  --xl-5: 44px;
+
+  --user-font-size: var(--m);
+  --user-line-height: var(--xl);
+}
