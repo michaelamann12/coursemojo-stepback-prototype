@@ -3,12 +3,18 @@ interface TitleSlideProps {
   headline: string;
   subhead?: string;
   meta?: string;
+  variant?: "dark" | "light";
 }
 
-/** Deep-indigo cover slide. */
-export function TitleSlide({ eyebrow, headline, subhead, meta }: TitleSlideProps) {
+/** Cover slide. Defaults to the deep-indigo treatment; pass `variant="light"`
+ * for the lavender treatment used on the deck's first page. */
+export function TitleSlide({ eyebrow, headline, subhead, meta, variant = "dark" }: TitleSlideProps) {
+  const cls =
+    variant === "light"
+      ? "slide slide-title-bg slide-title-bg--light"
+      : "slide slide-title-bg";
   return (
-    <div class="slide slide-title-bg">
+    <div class={cls}>
       {eyebrow ? <div class="title-eyebrow">{eyebrow}</div> : null}
       <h1 class="title-headline">{headline}</h1>
       {subhead ? <p class="title-subhead">{subhead}</p> : null}

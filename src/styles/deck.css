@@ -248,6 +248,17 @@
 }
 .slide-title-bg .slide-mascot { right: auto; left: 32px; bottom: 26px; width: 110px; height: 110px; }
 
+/* Light variant — used on the cover. Inverts the colour story: lavender
+   background, dark-indigo text, coral eyebrow keeps the brand snap. */
+.slide-title-bg--light {
+  background: var(--deck-bg-light);
+  color: var(--deck-ink-body);
+}
+.slide-title-bg--light .title-eyebrow { color: var(--deck-accent); }
+.slide-title-bg--light .title-headline { color: var(--deck-ink-dark); }
+.slide-title-bg--light .title-subhead { color: var(--deck-ink-body); }
+.slide-title-bg--light .title-meta { color: var(--deck-ink-soft); }
+
 /* ─── Slide 12 specifics: stat cards + headline grid ────────────────────── */
 .usage-grid {
   display: grid;

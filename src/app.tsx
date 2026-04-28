@@ -26,6 +26,7 @@ export function App() {
       slides={[
         { id: "01-cover", render: () => (
           <TitleSlide
+            variant="light"
             eyebrow="Coursemojo · Stepback Report"
             headline="Prototype ISD"
             subhead="Mid-year data review with district leadership"
